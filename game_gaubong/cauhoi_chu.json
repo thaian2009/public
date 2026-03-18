@@ -1,0 +1,547 @@
+[
+  {
+    "question": "Đuôi thì chẳng thấy, mà có hai đầu?",
+    "answers": ["Cây cầu", "cầu", "cai cau"],
+    "reward": 100000
+  },
+  {
+    "question": "Cái gì không có chân, không có đuôi, không có cơ thể mà có nhiều đầu?",
+    "answers": ["Cầu truyền hình", "cau truyen hinh", "truyen hinh"],
+    "reward": 200000
+  },
+  {
+    "question": "Ba của Tèo gọi mẹ của Tý là em dâu, vậy ba của Tý gọi ba của Tèo là gì?",
+    "answers": ["Anh trai", "anh", "anh ruot"],
+    "reward": 150000
+  },
+  {
+    "question": "Phía trước bạn là quảng trường xanh, sau lưng bạn là quảng trường trắng, vậy quảng trường đỏ ở đâu?",
+    "answers": ["Nga", "Nuoc Nga", "Lien Xo", "Moscow", "Mat-scơ-va"],
+    "reward": 200000
+  },
+  {
+    "question": "Vào tháng nào con người sẽ ngủ ít nhất trong năm?",
+    "answers": ["Tháng 2", "thang hai", "thang 2", "2"],
+    "reward": 100000
+  },
+  {
+    "question": "Loại xe không có bánh thường thấy ở đâu?",
+    "answers": ["Bàn cờ vua", "ban co vua", "ban co", "co vua", "ban co tuong"],
+    "reward": 150000
+  },
+  {
+    "question": "Nhà nào lạnh lẽo nhưng ai cũng muốn tới?",
+    "answers": ["Nhà băng", "nha bang", "ngan hang", "ngân hàng"],
+    "reward": 100000
+  },
+  {
+    "question": "Hôn mà bị hôn lại gọi là gì?",
+    "answers": ["Đính hôn", "dinh hon"],
+    "reward": 150000
+  },
+  {
+    "question": "Tôi chu du khắp thế giới mà tôi vẫn ở nguyên một chỗ, tôi là ai?",
+    "answers": ["Tem thư", "tem thu", "con tem", "tem"],
+    "reward": 200000
+  },
+  {
+    "question": "Từ nào trong tiếng Việt có chín mẫu tự h?",
+    "answers": ["Chính", "chu chinh", "tu chinh"],
+    "reward": 300000
+  },
+  {
+    "question": "Bánh gì nghe tên đã thấy sung sướng?",
+    "answers": ["Bánh Khoái", "banh khoai", "khoai"],
+    "reward": 100000
+  },
+  {
+    "question": "Bánh gì nghe tên đã thấy đau?",
+    "answers": ["Bánh Tét", "banh tet", "tet"],
+    "reward": 100000
+  },
+  {
+    "question": "Thứ gì mỗi ngày phải gỡ ra mới có công dụng?",
+    "answers": ["Lịch treo tường", "lich treo tuong", "lich", "to lich"],
+    "reward": 150000
+  },
+  {
+    "question": "Cái gì luôn chạy không chờ ta bao giờ, nhưng chúng ta vẫn có thể đứng một chỗ để chờ nó?",
+    "answers": ["Đồng hồ", "dong ho", "thoi gian"],
+    "reward": 100000
+  },
+  {
+    "question": "Con gì biết đi nhưng người ta vẫn nói nó không biết đi?",
+    "answers": ["Con bò", "con bo", "bo"],
+    "reward": 200000
+  },
+  {
+    "question": "Xe nào không bao giờ giảm đi?",
+    "answers": ["Xe tăng", "xe tang"],
+    "reward": 100000
+  },
+  {
+    "question": "Cái gì khi xài thì quăng đi, nhưng khi không xài thì lấy lại?",
+    "answers": ["Mỏ neo", "mo neo", "neo"],
+    "reward": 200000
+  },
+  {
+    "question": "Ở đâu 1 con voi có thể ăn 1 cái xe?",
+    "answers": ["Cờ tướng", "co tuong", "ban co tuong", "tren ban co"],
+    "reward": 150000
+  },
+  {
+    "question": "Cây nhang càng đốt càng ngắn. Vậy cây gì càng đốt nhiều càng dài?",
+    "answers": ["Cây tre", "cay tre", "tre"],
+    "reward": 200000
+  },
+  {
+    "question": "Hạt đường và hạt cát, hạt nào dài hơn?",
+    "answers": ["Hạt đường", "hat duong", "duong"],
+    "reward": 150000
+  },
+  {
+    "question": "Từ gì bỏ đầu thành tên quốc gia, mất đuôi ra một loài chim?",
+    "answers": ["Cúc", "chu cuc", "hoa cuc"],
+    "reward": 300000
+  },
+  {
+    "question": "Chữ gì mất đầu là hỏi, mất đuôi trả lời?",
+    "answers": ["Tai", "chu tai"],
+    "reward": 300000
+  },
+  {
+    "question": "Cái gì con người mua để ăn nhưng không bao giờ ăn?",
+    "answers": ["Bát đũa", "bat dua", "chen dua", "bat", "dua"],
+    "reward": 100000
+  },
+  {
+    "question": "Cái gì 2 lỗ: có gió thì sống, không gió thì chết?",
+    "answers": ["Lỗ mũi", "lo mui", "mui"],
+    "reward": 100000
+  },
+  {
+    "question": "Đồng gì mà đa số ai cũng thích?",
+    "answers": ["Đồng tiền", "dong tien", "tien"],
+    "reward": 100000
+  },
+  {
+    "question": "Cái gì càng cất lại càng thấy?",
+    "answers": ["Cất nhà", "cat nha", "xay nha"],
+    "reward": 200000
+  },
+  {
+    "question": "Chim nào thích dùng ngón tay tác động vật lý?",
+    "answers": ["Chim cốc", "chim coc", "coc"],
+    "reward": 250000
+  },
+  {
+    "question": "Sữa gì khi uống không được đứng yên 1 chỗ?",
+    "answers": ["Sữa lắc", "sua lac"],
+    "reward": 100000
+  },
+  {
+    "question": "Một người năm nay đã 40 tuổi. Hỏi người đó có bao nhiêu ngày sinh nhật?",
+    "answers": ["1 ngày", "một ngày", "1", "mot ngay"],
+    "reward": 150000
+  },
+  {
+    "question": "Túi gì nghe tên tưởng ngọt, hoá ra đắng ngắt khó lọt khỏi người?",
+    "answers": ["Túi mật", "tui mat"],
+    "reward": 150000
+  },
+  {
+    "question": "Trong cuộc sống, con người hay dùng vật này để đánh chính mình, đố là cái gì?",
+    "answers": ["Bàn chải đánh răng", "ban chai danh rang", "ban chai"],
+    "reward": 100000
+  },
+  {
+    "question": "Một xương sống, một đống xương sườn là cái gì?",
+    "answers": ["Cái lược", "cai luoc", "luoc"],
+    "reward": 150000
+  },
+  {
+    "question": "Hồ gì phụ nữ có chồng rất ghét?",
+    "answers": ["Hồ ly tinh", "ho ly tinh", "ho ly"],
+    "reward": 150000
+  },
+  {
+    "question": "Cái gì của con chim nhưng lại trên cơ thể con người?",
+    "answers": ["Vết chân chim", "vet chan chim"],
+    "reward": 150000
+  },
+  {
+    "question": "Con nào ít ai dám ăn, một kẻ lầm lỗi cả bày chịu theo?",
+    "answers": ["Con sâu", "con sau", "sau"],
+    "reward": 150000
+  },
+  {
+    "question": "Con vật gì là thần nhưng thêm dấu lại thành ác ma?",
+    "answers": ["Con rùa", "con rua", "rua"],
+    "reward": 250000
+  },
+  {
+    "question": "Có cổ nhưng không có miệng là cái gì?",
+    "answers": ["Cái áo", "cai ao", "ao"],
+    "reward": 100000
+  },
+  {
+    "question": "Sông gì vốn dĩ ồn ào?",
+    "answers": ["Sông La", "song la"],
+    "reward": 200000
+  },
+  {
+    "question": "Vừa bằng hạt đỗ, ăn giỗ cả làng. Là con gì?",
+    "answers": ["Con ruồi", "con ruoi", "ruoi"],
+    "reward": 150000
+  },
+  {
+    "question": "Tôi có 4 cái chân, 1 cái lưng nhưng không có cơ thể. Tôi là ai?",
+    "answers": ["Cái bàn", "cai ban", "ban"],
+    "reward": 100000
+  },
+  {
+    "question": "Nắng lửa mưa dầu tôi đâu bỏ bạn. Tối lửa tắt đèn sao bạn lại bỏ tôi. Đó là cái gì?",
+    "answers": ["Cái bóng", "cai bong", "bong"],
+    "reward": 200000
+  },
+  {
+    "question": "Vì tao tao phải đánh tao, vì tao tao phải đánh mày. Hỏi đang làm gì?",
+    "answers": ["Đập muỗi", "dap muoi", "danh muoi"],
+    "reward": 150000
+  },
+  {
+    "question": "Bàn gì xe ngựa sớm chiều giơ ra?",
+    "answers": ["Bàn cờ tướng", "ban co tuong", "co tuong"],
+    "reward": 150000
+  },
+  {
+    "question": "Bàn gì mà lại bước gần bước xa?",
+    "answers": ["Bàn chân", "ban chan", "chan"],
+    "reward": 100000
+  },
+  {
+    "question": "Con gì có mũi có lưỡi hẳn hoi. Có sống không chết người đời cầm luôn?",
+    "answers": ["Con dao", "con dao", "dao"],
+    "reward": 150000
+  },
+  {
+    "question": "Hột để sống: Một tên. Hột nấu lên: tên khác. Trong nhà nông các bác đều có mặt cả hai?",
+    "answers": ["Hột gạo", "hot gao", "gao", "lua gao"],
+    "reward": 200000
+  },
+  {
+    "question": "Da thịt như than. Áo choàng như tuyết. Giúp người trị bệnh mà tên chẳng hiền?",
+    "answers": ["Gà ác", "ga ac"],
+    "reward": 250000
+  },
+  {
+    "question": "Mặt gì tròn trịa trên cao, toả ra những ánh nắng đào đẹp thay?",
+    "answers": ["Mặt trời", "mat troi"],
+    "reward": 100000
+  },
+  {
+    "question": "Mặt gì mát dịu đêm nay, cây đa, chú cuội, đứng đây rõ ràng?",
+    "answers": ["Mặt trăng", "mat trang", "trang"],
+    "reward": 100000
+  },
+  {
+    "question": "Mặt gì bằng phẳng thênh thang, người đi muôn lối dọc ngang phố phường?",
+    "answers": ["Mặt đất", "mat dat"],
+    "reward": 100000
+  },
+  {
+    "question": "Hoa gì quân tử chẳng chê mùi bùn?",
+    "answers": ["Hoa sen", "hoa sen", "sen"],
+    "reward": 100000
+  },
+  {
+    "question": "Đi thì đứng, đứng thì ngã. Là cái gì?",
+    "answers": ["Xe đạp", "xe dap"],
+    "reward": 150000
+  },
+  {
+    "question": "Quần rộng nhất là quần gì?",
+    "answers": ["Quần đảo", "quan dao"],
+    "reward": 100000
+  },
+  {
+    "question": "Con gì không vú mà nuôi con?",
+    "answers": ["Con gà mái", "ga mai", "con ga"],
+    "reward": 150000
+  },
+  {
+    "question": "Con gì chân ngắn mà lại có màng, mỏ bẹt màu vàng hay kêu cạp cạp?",
+    "answers": ["Con vịt", "con vit", "vit"],
+    "reward": 100000
+  },
+  {
+    "question": "Con gì một lòng khuya sớm chuyên cần, trách người vô nghĩa, sao chê ngu đần?",
+    "answers": ["Con bò", "con bo", "bo"],
+    "reward": 150000
+  },
+  {
+    "question": "Vừa bằng quả ổi, khi nổi khi chìm. Là con gì?",
+    "answers": ["Con ốc", "con oc", "oc"],
+    "reward": 150000
+  },
+  {
+    "question": "Con gì ăn no, bụng to mắt híp, mồm kêu ụt ịt, nằm thở phì phò?",
+    "answers": ["Con heo", "con heo", "con lon", "lon", "heo"],
+    "reward": 100000
+  },
+  {
+    "question": "Thân em nửa chuột, nửa chim. Ngày treo chân ngủ, tối tìm mồi bay. Trời cho tai mắt giỏi thay. Tối đen tối mịt cứ bay vù vù. Là con gì?",
+    "answers": ["Con dơi", "con doi", "doi"],
+    "reward": 200000
+  },
+  {
+    "question": "Xã đông nhất là xã nào?",
+    "answers": ["Xã hội", "xa hoi"],
+    "reward": 100000
+  },
+  {
+    "question": "Núi nào mà bị chặt ra từng khúc?",
+    "answers": ["Thái Sơn", "thai son", "nui thai son"],
+    "reward": 200000
+  },
+  {
+    "question": "Bỏ ngoài nướng trong, ăn ngoài bỏ trong là gì?",
+    "answers": ["Bắp ngô", "bap ngo", "ngo", "bap"],
+    "reward": 150000
+  },
+  {
+    "question": "Trong 1 cuộc thi chạy, nếu bạn vượt qua người thứ 2 bạn sẽ đứng thứ mấy?",
+    "answers": ["Thứ 2", "thu hai", "thu 2", "2"],
+    "reward": 200000
+  },
+  {
+    "question": "Con gì không gáy ò ó o mà người ta vẫn gọi là gà?",
+    "answers": ["Gà con và gà mái", "ga con", "ga mai"],
+    "reward": 150000
+  },
+  {
+    "question": "Cơ quan quan trọng nhất của phụ nữ là gì?",
+    "answers": ["Hội Liên Hiệp Phụ Nữ", "hoi phu nu"],
+    "reward": 300000
+  },
+  {
+    "question": "Theo bạn, thảm gì mà không có bất kỳ ai muốn bước lên?",
+    "answers": ["Thảm họa", "tham hoa"],
+    "reward": 150000
+  },
+  {
+    "question": "Môn thể thao nào mà người thi đấu càng lùi càng thắng?",
+    "answers": ["Kéo co", "keo co"],
+    "reward": 100000
+  },
+  {
+    "question": "Cây gì mà tên của nó nghe như đã chết, nhưng thực tế nó vẫn sống và còn đơm hoa kết trái?",
+    "answers": ["Cây tiêu", "cay tieu", "tieu"],
+    "reward": 200000
+  },
+  {
+    "question": "Từ nào mà có 12 chữ “M”?",
+    "answers": ["Tám", "chu tam"],
+    "reward": 400000
+  },
+  {
+    "question": "Nơi nào trên trái đất mà đàn ông ở đó khổ nhất?",
+    "answers": ["Nam Cực", "nam cuc"],
+    "reward": 200000
+  },
+  {
+    "question": "Bốn chân đạp đất từ bi. Ăn chén sứ hoặc chén sành không ngại. Đó là gì?",
+    "answers": ["Tủ chén bát", "tu chen", "tu bat", "cai tu"],
+    "reward": 250000
+  },
+  {
+    "question": "Ở đỉnh cao nhất trên đầu, không đen như tóc, màu đỏ rực rỡ. Lúc khỏe đẹp như mặt trời, khi đau yếu màu sắc xám dần. Đó là gì?",
+    "answers": ["Mào gà", "mao ga"],
+    "reward": 150000
+  },
+  {
+    "question": "Cây khô, một lá, bốn năm cành. Đường đi uốn khúc, tay anh mệt mỏi. Gặp kẻ tiểu nhân, lặng im không nói. Chờ người tài giỏi mới được tôn vinh. Đó là gì?",
+    "answers": ["Cây đàn", "cay dan", "dan"],
+    "reward": 300000
+  },
+  {
+    "question": "Lịch nào có thời gian dài nhất?",
+    "answers": ["Lịch sử", "lich su"],
+    "reward": 100000
+  },
+  {
+    "question": "Con đường nào dài nhất?",
+    "answers": ["Đường đời", "duong doi"],
+    "reward": 100000
+  },
+  {
+    "question": "Môn thể thao nào càng thắng càng thua?",
+    "answers": ["Môn đua xe", "dua xe", "dua xe dap", "dua xe may"],
+    "reward": 200000
+  },
+  {
+    "question": "Con gì có đầu dê mà mình là ốc?",
+    "answers": ["Con dốc", "con doc", "doc"],
+    "reward": 200000
+  },
+  {
+    "question": "Con gì sống khi bị đập, chết khi không bị đập?",
+    "answers": ["Con tim", "trai tim", "tim"],
+    "reward": 200000
+  },
+  {
+    "question": "Hạt gì có chiều dài lớn nhất?",
+    "answers": ["Hạt mưa", "hat mua"],
+    "reward": 150000
+  },
+  {
+    "question": "Đồ vật nào có thể đi nằm, đứng cũng nằm, nhưng nằm lại đứng?",
+    "answers": ["Bàn chân", "ban chan", "chan"],
+    "reward": 200000
+  },
+  {
+    "question": "Khi sở thú bị cháy, con vật nào chạy ra đầu tiên?",
+    "answers": ["Con người", "nguoi"],
+    "reward": 200000
+  },
+  {
+    "question": "Trên hang đá, dưới hang đá, giữa có con vật gì?",
+    "answers": ["Cái miệng", "mieng", "cai luoi", "luoi"],
+    "reward": 150000
+  },
+  {
+    "question": "Đường nằm ngay thẳng tắp, hai cống hai bên, trên hàng gương, dưới hàng lược. Đó là gì?",
+    "answers": ["Bộ mặt", "cai mat", "mat", "khuon mat"],
+    "reward": 250000
+  },
+  {
+    "question": "Đôi khi đi bằng bốn chân, đôi khi đi bằng hai chân, đôi khi đi bằng ba chân, và đôi khi đi bằng tám chân. Đó là gì?",
+    "answers": ["Con người", "nguoi"],
+    "reward": 300000
+  },
+  {
+    "question": "Đồ vật nào có kích thước bằng một thước nhưng không thể vượt qua?",
+    "answers": ["Cái bóng", "cai bong", "bong"],
+    "reward": 250000
+  },
+  {
+    "question": "Hai cô nằm nghỉ hai phòng. Ngày thì mở cửa ra trông, đêm thì đóng cửa lấp trong ra ngoài. Đó là gì?",
+    "answers": ["Đôi mắt", "mat", "doi mat"],
+    "reward": 150000
+  },
+  {
+    "question": "Năm ông cùng ở một nhà, tình huynh nghĩa đệ vào ra thuận hòa. Bốn ông tuổi đã lên ba, một ông đã già mới lại lên hai. Đó là gì?",
+    "answers": ["Bàn tay", "ban tay", "ngon tay"],
+    "reward": 250000
+  },
+  {
+    "question": "Đồ vật có kích thước vừa cứng vừa đen, dài một thước. Một đầu toe toét, một đầu tròn. Lên xuống vào ra nhờ tay búa. Đó là gì?",
+    "answers": ["Cái mai", "cai mai", "mai"],
+    "reward": 350000
+  },
+  {
+    "question": "Đồ vật vô thủ, vô vỉ, vô nhĩ, vô tâm. Gốc ở sơn lâm, hay ăn thịt sống. Đó là gì?",
+    "answers": ["Cái thớt", "cai thot", "thot"],
+    "reward": 300000
+  },
+  {
+    "question": "Đồ vật vuông vuông, cửa đóng 2 đầu. 100 thằng chệt lần hồi chui ra. Thằng nào không mũ thì tha, thằng nào có mũ đem ra đốt đầu. Đó là gì?",
+    "answers": ["Bao diêm", "hop quet", "diem"],
+    "reward": 200000
+  },
+  {
+    "question": "Vật có đầu đuôi vuông vắn như nhau, thân chia nhiều đốt rất mau rất đều, tính tình chân thực đáng yêu, muốn biết dài ngắn mọi điều có em? Là cái gì?",
+    "answers": ["Cái thước kẻ", "thuoc ke", "cai thuoc"],
+    "reward": 100000
+  },
+  {
+    "question": "Vật cày trên đồng ruộng trắng phau, khát xuống uống nước giếng sâu đen ngòm? Là cái gì?",
+    "answers": ["Cái bút mực", "but muc", "viet muc"],
+    "reward": 150000
+  },
+  {
+    "question": "Cây mùa hè về áo đỏ như son, hè đi thay lá xanh non mượt mà, bao nhiêu tay tỏa rộng ra, như vẫy như đón bạn ta đến trường? Là cây gì?",
+    "answers": ["Cây phượng", "cay phuong", "hoa phuong"],
+    "reward": 100000
+  },
+  {
+    "question": "Vật da trắng muốt, ruột trắng tinh, bạn với học sinh, thích cọ đầu vào bảng? Là cái gì?",
+    "answers": ["Viên phấn", "phan", "vien phan"],
+    "reward": 100000
+  },
+  {
+    "question": "Vật bằng cái hạt cây, ba gian nhà đầy còn tràn ra sân? Là cái gì?",
+    "answers": ["Đèn dầu", "ngon den", "den dau"],
+    "reward": 250000
+  },
+  {
+    "question": "Con gì đánh thắng ông vua, nhưng mà nó lại đánh thua thầy chùa? Là con gì?",
+    "answers": ["Con chấy", "con chi", "con chay", "chi"],
+    "reward": 300000
+  },
+  {
+    "question": "Cái gì tay trái cầm được còn tay phải cầm không được?",
+    "answers": ["Tay phải", "tay phai", "canh tay phai"],
+    "reward": 200000
+  },
+  {
+    "question": "Con trai có gì quý nhất?",
+    "answers": ["Ngọc trai", "ngoc trai"],
+    "reward": 200000
+  },
+  {
+    "question": "Bệnh gì bác sỹ bó tay?",
+    "answers": ["Gãy tay", "gay tay"],
+    "reward": 100000
+  },
+  {
+    "question": "Bà đó bả chết bả bay lên trời. Hỏi bà ấy chết năm bao nhiêu tuổi và tại sao bà ấy chết?",
+    "answers": ["73", "bay ba", "bay muoi ba", "ba bay"],
+    "reward": 500000
+  },
+  {
+    "question": "Có 1 đàn chim đậu trên cành, người thợ săn bắn cái rằm. Hỏi còn mấy con?",
+    "answers": ["Không còn con nào", "0", "khong con con nao", "het"],
+    "reward": 150000
+  },
+  {
+    "question": "Vua nào mặt sắt đen sì? Vua nào trong thửa hàn vi ở chùa?",
+    "answers": ["Vua Mai Hắc Đế", "Mai Hac De", "Ly Cong Uan", "Ly Thai To"],
+    "reward": 450000
+  },
+  {
+    "question": "Đông Du ai đã đưa người? Còn ai đập đá giữa trời trơ trơ?",
+    "answers": ["Phan Bội Châu", "Phan Chu Trinh"],
+    "reward": 450000
+  },
+  {
+    "question": "Ai là người khách thoa quần, đạp luồng sóng dữ, đuổi quân giặc thù, Cửu Chân nức tiếng ngàn thu, vì dân quyết phá ngục tù lầm than?",
+    "answers": ["Bà Triệu", "Ba Trieu", "Trieu Thi Trinh"],
+    "reward": 450000
+  },
+  {
+    "question": "Cá gì đi học phải dùng?",
+    "answers": ["Cá Mực", "ca muc", "muc"],
+    "reward": 100000
+  },
+  {
+    "question": "Cái gì của ta, chặt không đứt, dứt không ra?",
+    "answers": ["Cái bóng", "cai bong", "bong"],
+    "reward": 150000
+  },
+  {
+    "question": "Có ba quả táo trên bàn và bạn lấy đi hai quả. Hỏi bạn còn bao nhiêu quả táo?",
+    "answers": ["2 quả", "2", "hai qua", "hai"],
+    "reward": 150000
+  },
+  {
+    "question": "Bố mẹ có sáu người con trai, mỗi người con trai có một em gái. Hỏi gia đình đó có bao nhiêu người?",
+    "answers": ["9 người", "9", "chin nguoi"],
+    "reward": 400000
+  },
+  {
+    "question": "Cái gì đen khi bạn mua nó, đỏ khi dùng nó và xám xịt khi vứt nó đi?",
+    "answers": ["Than", "cuc than", "than cui"],
+    "reward": 150000
+  }
+]
