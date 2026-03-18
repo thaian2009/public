@@ -440,7 +440,7 @@
     ],
     "reward": 100000
   },
-{
+  {
     "question": "aiu_nb",
     "answers": [
       "ban ui"
@@ -1140,4697 +1140,2349 @@
     ],
     "reward": 100000
   },
-
   {
-
     "question": "occ_onh",
-
     "answers": [
-
       "con cho"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "mon_eco",
-
     "answers": [
-
       "con meo"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ona_cg",
-
     "answers": [
-
       "con ga"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "oin_vtc",
-
     "answers": [
-
       "con vit"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "onn_gcnga",
-
     "answers": [
-
       "con ngang"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ngc_gonnỗ",
-
     "answers": [
-
       "con ngỗng"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "cao_turn",
-
     "answers": [
-
       "con trau"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "onc_bo",
-
     "answers": [
-
       "con bo"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "oln_onc",
-
     "answers": [
-
       "con lon"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "end_oc",
-
     "answers": [
-
       "con de"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "unc_ocu",
-
     "answers": [
-
       "con cuu"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ucg_naon",
-
     "answers": [
-
       "con ngua"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "noh_oct",
-
     "answers": [
-
       "con tho"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "cuh_nootc",
-
     "answers": [
-
       "con chuot"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nco_ho",
-
     "answers": [
-
       "con ho"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uuo_cn_st",
-
     "answers": [
-
       "con su tu"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "cbo_aon",
-
     "answers": [
-
       "con bao"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ocn_uag",
-
     "answers": [
-
       "con gau"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "onc_oiv",
-
     "answers": [
-
       "con voi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "gnc_ae_tico",
-
     "answers": [
-
       "con te giac"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hma_co_na",
-
     "answers": [
-
       "con ha ma"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nhu_uoco",
-
     "answers": [
-
       "con huou"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "oci_ann",
-
     "answers": [
-
       "con nai"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nkc_hoi",
-
     "answers": [
-
       "con khi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ooo_ciiu_udn",
-
     "answers": [
-
       "con duoi uoi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "oit_nhhn_nitc",
-
     "answers": [
-
       "con tinh tinh"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "snc_ooc",
-
     "answers": [
-
       "con soc"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nhí_ocmn",
-
     "answers": [
-
       "con nhím"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "tut_uocch_noi",
-
     "answers": [
-
       "con chuot tui"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "dna_col_ac",
-
     "answers": [
-
       "con lac da"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "oca_ocn",
-
     "answers": [
-
       "con cao"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "sic_oon",
-
     "answers": [
-
       "con soi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ccn_eoh",
-
     "answers": [
-
       "con ech"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ano_cnih",
-
     "answers": [
-
       "con nhai"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "coc_con",
-
     "answers": [
-
       "con coc"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "orn_auc",
-
     "answers": [
-
       "con rua"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nab_ao_cb",
-
     "answers": [
-
       "con ba ba"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "oac_sn_cua",
-
     "answers": [
-
       "con ca sau"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aon_crn",
-
     "answers": [
-
       "con ran"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ctr_nnao",
-
     "answers": [
-
       "con tran"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "chn_uhocn_agts",
-
     "answers": [
-
       "con thach sung"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "cnc_eok_at",
-
     "answers": [
-
       "con tac ke"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "kay_do_cn",
-
     "answers": [
-
       "con ky da"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hcc_ce_paon",
-
     "answers": [
-
       "con ca chep"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "cor_no_ac",
-
     "answers": [
-
       "con ca ro"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "acc_on_tuh",
-
     "answers": [
-
       "con ca thu"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "gou_nc_nca",
-
     "answers": [
-
       "con ca ngu"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "oon_iv_cca",
-
     "answers": [
-
       "con ca voi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ecc_on_aoh",
-
     "answers": [
-
       "con ca heo"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nac_oc_pam",
-
     "answers": [
-
       "con ca map"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "mcn_cou",
-
     "answers": [
-
       "con muc"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "oct_mno",
-
     "answers": [
-
       "con tom"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uon_acc",
-
     "answers": [
-
       "con cua"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hgc_eno",
-
     "answers": [
-
       "con ghe"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nco_co",
-
     "answers": [
-
       "con oc"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "cno_egnuh",
-
     "answers": [
-
       "con ngheu"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nco_so",
-
     "answers": [
-
       "con so"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "sna_noc",
-
     "answers": [
-
       "con san"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "acn_ohs_on",
-
     "answers": [
-
       "con san ho"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "cou_ahc_ian",
-
     "answers": [
-
       "con hai cau"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ine_un_so_cbut",
-
     "answers": [
-
       "con su tu bien"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nan_ou_gcac",
-
     "answers": [
-
       "con ca ngua"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nsi_eac_obno",
-
     "answers": [
-
       "con sao bien"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ecc_inno_hm",
-
     "answers": [
-
       "con chim en"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "coi_scmn_he",
-
     "answers": [
-
       "con chim se"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ucn_iocb_ch_amo",
-
     "answers": [
-
       "con chim bo cau"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "guo_hcnc_nim",
-
     "answers": [
-
       "con chim ung"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "bcg_niai_ohc_amdn",
-
     "answers": [
-
       "con chim dai bang"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "cni_hocm_cu",
-
     "answers": [
-
       "con chim cu"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ehn_ctcm_ovi",
-
     "answers": [
-
       "con chim vet"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ohm_nccg_ionc",
-
     "answers": [
-
       "con chim cong"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ino_tccm_hir",
-
     "answers": [
-
       "con chim tri"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "tcn_ocuh_aich_mcn",
-
     "answers": [
-
       "con chim canh cut"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nad_co_deui",
-
     "answers": [
-
       "con da dieu"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ucc_no_eom",
-
     "answers": [
-
       "con cu meo"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nec_okin",
-
     "answers": [
-
       "con kien"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "gno_cina",
-
     "answers": [
-
       "con gian"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "unm_oioc",
-
     "answers": [
-
       "con muoi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nuo_irco",
-
     "answers": [
-
       "con ruoi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nnc_ogo",
-
     "answers": [
-
       "con ong"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uom_conb",
-
     "answers": [
-
       "con buom"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ocs_aun",
-
     "answers": [
-
       "con sau"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "noe_cnhn",
-
     "answers": [
-
       "con nhen"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "bnc_oo_pca",
-
     "answers": [
-
       "con bo cap"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "una_acco_chhu",
-
     "answers": [
-
       "con chau chau"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nen_em_dco",
-
     "answers": [
-
       "con de men"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uhh_nuccn_ooocn",
-
     "answers": [
-
       "con chuon chuon"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "esu_co_vna",
-
     "answers": [
-
       "con ve sau"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "dco_moo_mdn",
-
     "answers": [
-
       "con dom dom"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nua_oc_bor",
-
     "answers": [
-
       "con bo rua"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "cmo_ino",
-
     "answers": [
-
       "con moi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nkn_aelc_oui",
-
     "answers": [
-
       "con kien lua"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ocn_cun_roan",
-
     "answers": [
-
       "con ran nuoc"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "oao_bn_bnc_pcei",
-
     "answers": [
-
       "con bo cap bien"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nid_cu_aooc",
-
     "answers": [
-
       "con ca duoi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "neo_nniơ_cgkvư",
-
     "answers": [
-
       "con kien vương"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "gno_cn_oaub",
-
     "answers": [
-
       "con bo ngua"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "cnu_hnuo_ceioc",
-
     "answers": [
-
       "con cuon chieu"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ngr_toncu",
-
     "answers": [
-
       "con trung"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nnc_eos",
-
     "answers": [
-
       "con sen"
-
     ],
-
     "reward": 100000
-
   },
-{
-
+  {
     "question": "xai_oqua",
-
     "answers": [
-
       "qua xoai"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "iua_mtq",
-
     "answers": [
-
       "qua mit"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "qui_oa",
-
     "answers": [
-
       "qua oi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "amq_acu",
-
     "answers": [
-
       "qua cam"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uyq_tuaq",
-
     "answers": [
-
       "qua quyt"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uob_quia",
-
     "answers": [
-
       "qua buoi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "quh_ahnac",
-
     "answers": [
-
       "qua chanh"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "dua_qau",
-
     "answers": [
-
       "qua dua"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aua_hud_uaq",
-
     "answers": [
-
       "qua dua hau"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uai_aql_uodu",
-
     "answers": [
-
       "qua dua luoi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "gqd_aun_aaug",
-
     "answers": [
-
       "qua dua gang"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "qug_htnha_nalo",
-
     "answers": [
-
       "qua thanh long"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uae_agi_qsrnu",
-
     "answers": [
-
       "qua sau rieng"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "amu_nutq_acg",
-
     "answers": [
-
       "qua mang cut"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hom_maho_cqcu",
-
     "answers": [
-
       "qua chom chom"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hnn_aauq",
-
     "answers": [
-
       "qua nhan"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aua_qvi",
-
     "answers": [
-
       "qua vai"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aum_qan",
-
     "answers": [
-
       "qua man"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "qau_le",
-
     "answers": [
-
       "qua le"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "qat_aou",
-
     "answers": [
-
       "qua tao"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aao_udq",
-
     "answers": [
-
       "qua dao"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uam_oq",
-
     "answers": [
-
       "qua mo"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "gua_hoqn",
-
     "answers": [
-
       "qua hong"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "emn_iuoq_hags",
-
     "answers": [
-
       "qua hong siem"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "sak_ueqa",
-
     "answers": [
-
       "qua sake"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uau_qul",
-
     "answers": [
-
       "qua luu"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aqu_nho",
-
     "answers": [
-
       "qua nho"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aqu_bo",
-
     "answers": [
-
       "qua bo"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "udq_uu_da",
-
     "answers": [
-
       "qua du du"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uaq_couhi",
-
     "answers": [
-
       "qua chuoi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "iku_avqi",
-
     "answers": [
-
       "qua kivi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aya_duu_taq",
-
     "answers": [
-
       "qua dau tay"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "qtt_vqui_aeau",
-
     "answers": [
-
       "qua viet quat"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "xqo_mau_mia",
-
     "answers": [
-
       "qua mam xoi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aqa_uho_nad",
-
     "answers": [
-
       "qua anh dao"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "qma_ue",
-
     "answers": [
-
       "qua me"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aua_qsu",
-
     "answers": [
-
       "qua sau"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uqa_khe",
-
     "answers": [
-
       "qua khe"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uva_qa",
-
     "answers": [
-
       "qua va"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "sag_uqnu",
-
     "answers": [
-
       "qua sung"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aau_nq",
-
     "answers": [
-
       "qua na"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "qcn_auam_gua",
-
     "answers": [
-
       "qua mang cau"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "suv_qa_auu",
-
     "answers": [
-
       "qua vu sua"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "qoc_auc",
-
     "answers": [
-
       "qua coc"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aqu_rmta",
-
     "answers": [
-
       "qua tram"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ota_iu_qau",
-
     "answers": [
-
       "qua oi tau"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "iav_uae_tiqhu",
-
     "answers": [
-
       "qua vai thieu"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aqu_uiek",
-
     "answers": [
-
       "qua kieu"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "qoh_eanal_chu",
-
     "answers": [
-
       "qua chanh leo"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aqa_cum_ac",
-
     "answers": [
-
       "qua mac ca"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "oco_qa_huc",
-
     "answers": [
-
       "qua oc cho"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aqn_hnah_hnua",
-
     "answers": [
-
       "qua hanh nhan"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "equ_dth_aa",
-
     "answers": [
-
       "qua hat de"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aid_uqeu",
-
     "answers": [
-
       "qua dieu"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "pha_ttuh_uqa",
-
     "answers": [
-
       "qua phat thu"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aat_qquu",
-
     "answers": [
-
       "qua quat"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ytu_qdqu_onaug",
-
     "answers": [
-
       "qua quyt duong"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aqt_aat_uo",
-
     "answers": [
-
       "qua tao ta"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "tau_aoq_aut",
-
     "answers": [
-
       "qua tao tau"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hat_tqrua_anh",
-
     "answers": [
-
       "qua thanh tra"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uiu_qo_aocn",
-
     "answers": [
-
       "qua oi nuoc"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "utq_dau_auoi",
-
     "answers": [
-
       "qua dua tuoi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "atm_gauq_yna",
-
     "answers": [
-
       "qua mang tay"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "huc_au_qcaa",
-
     "answers": [
-
       "qua ca chua"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "tao_uq",
-
     "answers": [
-
       "qua ot"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aqu_mupo",
-
     "answers": [
-
       "qua muop"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aqa_uub",
-
     "answers": [
-
       "qua bau"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "iua_bq",
-
     "answers": [
-
       "qua bi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "iqb_ao_ugn",
-
     "answers": [
-
       "qua bi ngo"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "oaa_uqpn_gmdu",
-
     "answers": [
-
       "qua muop dang"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ait_qa_umc",
-
     "answers": [
-
       "qua ca tim"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "quc_aa_ohap",
-
     "answers": [
-
       "qua ca phao"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "qpa_udu_aba",
-
     "answers": [
-
       "qua dau bap"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "bqa_uap",
-
     "answers": [
-
       "qua bap"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nkh_aqiol_aaug",
-
     "answers": [
-
       "qua khoai lang"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hya_aiota_uqk",
-
     "answers": [
-
       "qua khoai tay"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "qui_aoham_okn",
-
     "answers": [
-
       "qua khoai mon"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ans_qua",
-
     "answers": [
-
       "qua san"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "qca_ua_tro",
-
     "answers": [
-
       "qua ca rot"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "cau_aq_uci",
-
     "answers": [
-
       "qua cu cai"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aqu_nugg",
-
     "answers": [
-
       "qua gung"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nug_qaeh",
-
     "answers": [
-
       "qua nghe"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uti_oqa",
-
     "answers": [
-
       "qua toi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aha_uqhn",
-
     "answers": [
-
       "qua hanh"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "qau_as",
-
     "answers": [
-
       "qua sa"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "gea_nuqir",
-
     "answers": [
-
       "qua rieng"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uta_uiqe",
-
     "answers": [
-
       "qua tieu"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "kma_qce_huan",
-
     "answers": [
-
       "qua mac khen"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ahd_toq_iua",
-
     "answers": [
-
       "qua hat doi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uqa_que",
-
     "answers": [
-
       "qua que"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uho_aqi",
-
     "answers": [
-
       "qua hoi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "qat_uaoa_huq",
-
     "answers": [
-
       "qua thao qua"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uum_aohnq_hanc",
-
     "answers": [
-
       "qua chanh muon"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "osq_ua",
-
     "answers": [
-
       "qua so"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hqu_uman",
-
     "answers": [
-
       "qua nhum"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "qba_unb_noo",
-
     "answers": [
-
       "qua bon bon"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "has_man_aqcu",
-
     "answers": [
-
       "qua cam sanh"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uod_qat_uhma",
-
     "answers": [
-
       "qua dua thom"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uqv_aauus",
-
     "answers": [
-
       "qua vusua"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uka_ohq_iva",
-
     "answers": [
-
       "qua vai kho"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "tc_ghk_oea_un_yaora_qnn",
-
     "answers": [
-
       "an qua nho ke trong cay"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nngn_hnog_uou_unoco",
-
     "answers": [
-
       "uong nuoc nho nguon"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "so_oagn_tcn_yco_mc_akgn_eni_mia",
-
     "answers": [
-
       "co cong mai sat co ngay nen kim"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ha_mauh_dla_nl_clar",
-
     "answers": [
-
       "la lanh dum la rach"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uul_ti_nigobo_huc_ya_ngba",
-
     "answers": [
-
       "bau oi thuong lay bi cung"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "onh_mna_cgn_amyol_ean_cnt",
-
     "answers": [
-
       "mot cay lam chang nen non"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ihn_ega_nec_dsh_aag_utm_idn_gntn",
-
     "answers": [
-
       "gan muc thi den gan den thi sang"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nhco_aeo_ti_huh_lvc_nae",
-
     "answers": [
-
       "tien hoc le hau hoc van"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "dot_nn_gsroa_tou",
-
     "answers": [
-
       "ton su trong dao"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hoo_on_vca_ihi_idhd",
-
     "answers": [
-
       "hoc di doi voi hanh"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "maoda_teny_kg_onm_anh_hyl",
-
     "answers": [
-
       "khong thay do may lam nen"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hkt_ohca_ghonh_yan_yba_cto",
-
     "answers": [
-
       "hoc thay khong tay hoc ban"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "td_sok_noyd_mhan_oct_nmo_niha_ggga",
-
     "answers": [
-
       "di mot ngay dang hoc mot sang khon"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "oc_thn_ini_ceh",
-
     "answers": [
-
       "co chi thi nen"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ntto_ath_aa_ac_gebhh_linm",
-
     "answers": [
-
       "that bai la me thanh cong"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ngn_auc_unta_tlha_sai_uug_hvn",
-
     "answers": [
-
       "lua thu vang gian nan thu suc"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "oono_nnug_ncu_honug",
-
     "answers": [
-
       "uong nuoc nho nguon"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "da_hakye_ihh_ko_nao_nco",
-
     "answers": [
-
       "an khoai nho ke cho day"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hoo_uycy_kdgcn_na_nhgg_east",
-
     "answers": [
-
       "cay ngay khong so chet dung"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "dhs_oom_ooai_cchtr_hach",
-
     "answers": [
-
       "doi cho sach racho thom"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "lluc_ogaig_hae_rai_yy",
-
     "answers": [
-
       "giay racho giu lay le"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "tnn_aob_otoa_oua_dm_uga_cu_cc",
-
     "answers": [
-
       "mot con ngua dau ca tau bo co"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ldao_cno_ce_shae_kgai_th_ln_rtae",
-
     "answers": [
-
       "doan ket la song chia re la chet"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nhh_ym_aae_hcu_neh_antt",
-
     "answers": [
-
       "anh em nhu the tay chan"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "tem_rumy_oach_amu",
-
     "answers": [
-
       "mau chay ruot mem"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "lg_iacr_uo_env",
-
     "answers": [
-
       "la rung ve coi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "cnoc_cuuo_rga_ythnh",
-
     "answers": [
-
       "nuoc chay cho trung"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hcnad_trov_gii_uo",
-
     "answers": [
-
       "trung choi voi da"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "is_vund_acg_aod",
-
     "answers": [
-
       "da vang doi suc"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "megm_acdu_ac_hnn",
-
     "answers": [
-
       "chan cung da mem"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "agb_nua_ula_lnu_eyno_canr_gmg",
-
     "answers": [
-
       "lua gan rom lau ngay cung ben"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "igo_tmg_aanc_emr",
-
     "answers": [
-
       "tre gia mang moc"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nna_hhh_ncp_ou_olo_ac_ahcc",
-
     "answers": [
-
       "con hon cha la nha co phuc"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nuato_ag_ta_oal_dhi",
-
     "answers": [
-
       "nguoi ta la hoa dat"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "mtm_aog_uuctg_iomm_iobn_unt_aaa",
-
     "answers": [
-
       "mot mat nguoi bang muoi mat cua"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nca_th_yuao_igiud",
-
     "answers": [
-
       "cua di thay nguoi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "akh_gesv_cu_lona",
-
     "answers": [
-
       "suc khoe la vang"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uhona_hocb_bep_hhnn_hegn",
-
     "answers": [
-
       "phong benh hon chua benh"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "on_con_sgohm_acu_ud_gniu_hcaco_ist",
-
     "answers": [
-
       "co suc nguoi soi da cung thanh com"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hal_ama_hyi_atmn",
-
     "answers": [
-
       "tay lam ham nhai"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ol_ntc_hia_oco_im_am",
-
     "answers": [
-
       "co lam thi moi co an"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "avin_ob_hapl_upa_mna_one",
-
     "answers": [
-
       "muon an phai lan vao bep"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ldk_adh_andk_hn_hlii_maa_ehu",
-
     "answers": [
-
       "lam khi lanh de danh khi dau"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "akan_onu_dyi_gtua_tlh_ce",
-
     "answers": [
-
       "kien tha lau cung day to"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hatd_ttue_inhic_hia",
-
     "answers": [
-
       "tich tieu thanh dai"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "btun_aeb_nuo_ab",
-
     "answers": [
-
       "buon tau ban be"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ahb_pohnth_puu_tgi",
-
     "answers": [
-
       "phi thuong bat phu"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "oib_ool_vtm_onn",
-
     "answers": [
-
       "mot von bon loi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "gan_ea_omnti_nuhll",
-
     "answers": [
-
       "lam an luong thien"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "oounu_ta_htahn_nhgvc",
-
     "answers": [
-
       "thuan vo thuan chong"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "bb_eo_nba_ebn",
-
     "answers": [
-
       "ba be bon ben"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ev_cnxiu_do_ogui",
-
     "answers": [
-
       "di nguoc ve xuoi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "noca_tac_harn_ouh",
-
     "answers": [
-
       "chan uot chan rao"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ca_cem_ciod_hunn_gm_had",
-
     "answers": [
-
       "di cho chan cung da mem"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "asa_cx_oa_htn",
-
     "answers": [
-
       "son ha xa tac"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hng_udnc_atu_uqoeo",
-
     "answers": [
-
       "dat nuoc que huong"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nnu_uteg_hoyuan_dco",
-
     "answers": [
-
       "yeu nuoc thuong dan"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ar_gcoi_vn_ule",
-
     "answers": [
-
       "la rung ve coi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ihmg_cg_in_ctouo_oo_ncto",
-
     "answers": [
-
       "chim co to nguoi co tong"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "gunh_ucng_oun_onnoo",
-
     "answers": [
-
       "uong nuoc nho nguon"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "no_aao_tag_nue_hai_abnm_dmt_hco",
-
     "answers": [
-
       "an bat com deo nho nhat mau gai"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ocon_ucya_ma_hdn",
-
     "answers": [
-
       "nuoc chay da mon"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hnh_atek_ihg_nuoa",
-
     "answers": [
-
       "hao kiet anh hung"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ima_nhc_hni",
-
     "answers": [
-
       "chi nam nhi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "dnn_gsaa_vg_aat",
-
     "answers": [
-
       "gan vang da sat"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "anal_gnth_du_ogl",
-
     "answers": [
-
       "long lang da thu"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nhed_tig_ono_adyl",
-
     "answers": [
-
       "thay den doi long"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nqc_uuu_atr_vaa",
-
     "answers": [
-
       "qua cau rut van"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "auv_uadg_ouanp_vnn_tr_ohca",
-
     "answers": [
-
       "vua danh trong vua an cuop"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nag_uc_ulun_apa_vv_aalo",
-
     "answers": [
-
       "vua an cuop vua la lang"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "cobta_ht_gom_uơ_aio_nưm_mioc",
-
     "answers": [
-
       "nguoi ba mat co cho mot mươi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "tbamm_agm_og_onbn_uao_on_mid_gem",
-
     "answers": [
-
       "mieng nam mo bung mot bo dao gam"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "xpak_ah_uth_tmaa",
-
     "answers": [
-
       "khau xa tam phat"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hnuu_ben_ith",
-
     "answers": [
-
       "hien nhu but"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "di_hou_onc_shu",
-
     "answers": [
-
       "du nhu cho soi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hhtac_ann_nuh",
-
     "answers": [
-
       "nhanh nhu cat"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "auah_shm_nuc",
-
     "answers": [
-
       "cham nhu sua"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ioko_hhv_neư",
-
     "answers": [
-
       "khoe như voi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "enn_sue_huy",
-
     "answers": [
-
       "yeu nhu sen"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "bho_gnon_vui_ihhn",
-
     "answers": [
-
       "nhu hinh voi bong"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "kmgg_ndc_anoo_och",
-
     "answers": [
-
       "dong cam cong kho"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ueso_biha_nt_cgi",
-
     "answers": [
-
       "chia ngot se bui"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "unm_oce_ovh_ioh",
-
     "answers": [
-
       "nhu cho voi meo"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nln_houc_oui_auv",
-
     "answers": [
-
       "nhu nuoc voi lua"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "cua_lia_nhn_cas_onu_aorm",
-
     "answers": [
-
       "con sau lam rau noi canh"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "oau_nmag_cgan_ci_ado_gnygn_hmul",
-
     "answers": [
-
       "cay muon lang ma gio chang dung"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "gei_dtr_nymc_onae",
-
     "answers": [
-
       "tre cay mien dong"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "dtcd_in_uvu_oao",
-
     "answers": [
-
       "nuoc do dau vit"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "itu_yad_ana_targ",
-
     "answers": [
-
       "dan gay tai trau"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "at_ghien_unh_uod",
-
     "answers": [
-
       "da nguoi nhu the"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hcn_ooaa_nngh_cmlt",
-
     "answers": [
-
       "com lanh canh ngot"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "go_mmnt_ecg_au",
-
     "answers": [
-
       "ga cung mot me"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "icg_hng_ma_nane",
-
     "answers": [
-
       "chi nga em nang"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "cac_hh_oon_aun_ocn_oc_hnc",
-
     "answers": [
-
       "con co cha nhu nha co noc"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ncn_iac_aim_goda",
-
     "answers": [
-
       "con dai cai mang"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uyic_cux_oaon_tmah",
-
     "answers": [
-
       "nuoc mat chay xuoi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ana_ng_hmil_oorh",
-
     "answers": [
-
       "moi ho rang lanh"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hia_otnm_ogt_clu_uao_dm_ooao_na",
-
     "answers": [
-
       "mot giot mau dao hon ao nuoc la"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nnu_ab_axg_ama",
-
     "answers": [
-
       "ban xa mua gan"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "tuc_mnuh_uohe_mo",
-
     "answers": [
-
       "cho thue muon mu"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ngi_gnca_oee_ydihg",
-
     "answers": [
-
       "ech ngoi day gieng"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ntuht_kuog_ero_ng",
-
     "answers": [
-
       "thung rong keu to"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "boii_avx_yet_mho",
-
     "answers": [
-
       "thay boi xem voi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "qo_uanmt_gun_iguni",
-
     "answers": [
-
       "mu quang tin nguoi"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "yana_kanm_ohrgh_otgm_nht_ebtg",
-
     "answers": [
-
       "tram nghe khong bang mot thay"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hymt_gtmn_abera_kona_ogt_unhq",
-
     "answers": [
-
       "tram thay khong bang mot quen"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ann_nk_uasd_oav_iuh",
-
     "answers": [
-
       "van su khoi dau nan"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "out_ixuu_oail_dod",
-
     "answers": [
-
       "dau xuoi duoi lot"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hnt_si_uum_anua",
-
     "answers": [
-
       "muu su tai nhan"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aatti_st_ihh_nnhue",
-
     "answers": [
-
       "thanh su tai thien"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "h_hing_oea_nalp",
-
     "answers": [
-
       "o hien gap lanh"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "co_gca_ia_aab",
-
     "answers": [
-
       "ac gia ac bao"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ogtb_ogo_eai_gai",
-
     "answers": [
-
       "gieo gio gat bao"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uuc_qax_uya_xaa",
-
     "answers": [
-
       "cay xau qua xau"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "sar_uan_yoa_nau",
-
     "answers": [
-
       "rau nao sau nay"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aco_aah_nco_nyn",
-
     "answers": [
-
       "cha nao con nay"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "my_cao_nen_oan",
-
     "answers": [
-
       "me nao con nay"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uguhb_oyt_oen_niai_adid_gma",
-
     "answers": [
-
       "duong dai moi biet ngua hay"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "onal_nhta_nahtg_ytg",
-
     "answers": [
-
       "ngay lanh thang tot"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "aah_mnuio_gua_hot",
-
     "answers": [
-
       "mua thuan gio hoa"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "uh_ac_nla_ncgiep",
-
     "answers": [
-
       "an cu lac nghiep"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "opah_lp_eni_cngihs",
-
     "answers": [
-
       "sinh co lap nghiep"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hcn_itaay_ogk_tgab",
-
     "answers": [
-
       "tay khong bat giac"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "alo_hnkg_gmauh_kio",
-
     "answers": [
-
       "lam giau khong kho"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "iia_dcarh_ntu_tea",
-
     "answers": [
-
       "cua thien tra dia"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "tmaa_tta_teg_mnin",
-
     "answers": [
-
       "tien mat tat mang"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "tah_octe_gt_nb_ieia_ontm",
-
     "answers": [
-
       "mot tien ga ba tien thoc"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nncy_uti_aon_eaa",
-
     "answers": [
-
       "tien nao cua nay"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ttn_iea_am_adxgr",
-
     "answers": [
-
       "dat xat ra mieng"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "lam_naan_gnb_iua",
-
     "answers": [
-
       "mua gian ban lan"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "eehh_auu_oyot_tgerng",
-
     "answers": [
-
       "treu hoa gheo nguyet"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "hoh_aat_oar_uipc",
-
     "answers": [
-
       "hoa roi cua phat"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "ccns_ah_li_ama",
-
     "answers": [
-
       "chim sa ca lan"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "igiuu_avn_ep_ldo",
-
     "answers": [
-
       "nguoi dep vi lua"
-
     ],
-
     "reward": 100000
-
   },
-
   {
-
     "question": "nul_oha_ai_pvtt",
-
     "answers": [
-
       "lua tot vi phan"
-
     ],
-
     "reward": 100000
-
   }
 ]
-
-
-
-
