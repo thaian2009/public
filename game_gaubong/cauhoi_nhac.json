@@ -1,0 +1,7564 @@
+[
+  {
+    "question": "Bùa Yêu",
+    "answers": [
+      "bùa yêu",
+      "bua yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chạy Ngay Đi",
+    "answers": [
+      "chạy ngay đi",
+      "chay ngay di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nơi Này Có Anh",
+    "answers": [
+      "nơi này có a",
+      "noi nay co a",
+      "nơi này có anh",
+      "noi nay co anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Gái Mưa",
+    "answers": [
+      "e gái mưa",
+      "e gai mua",
+      "em gái mưa",
+      "em gai mua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Duyên Mình Lỡ",
+    "answers": [
+      "duyên mình lỡ",
+      "duyen minh lo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Người Âm Phủ",
+    "answers": [
+      "người âm phủ",
+      "nguoi am phu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh Nhà Ở Đâu Thế",
+    "answers": [
+      "a nhà ở đâu thế",
+      "a nha o dau the",
+      "anh nhà ở đâu thế",
+      "anh nha o dau the"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đúng Người Đúng Thời Điểm",
+    "answers": [
+      "đúng người đúng thời điểm",
+      "dung nguoi dung thoi diem"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lạc Trôi",
+    "answers": [
+      "lạc trôi",
+      "lac troi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Điều Anh Biết",
+    "answers": [
+      "điều a biết",
+      "dieu a biet",
+      "điều a bt",
+      "dieu a bt",
+      "điều anh biết",
+      "dieu anh biet",
+      "điều anh bt",
+      "dieu anh bt"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chạm Đáy Nỗi Đau",
+    "answers": [
+      "chạm đáy nỗi đau",
+      "cham day noi dau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Không Còn Nữa",
+    "answers": [
+      "ko còn nữa",
+      "ko con nua",
+      "k còn nữa",
+      "k con nua",
+      "không còn nữa",
+      "khong con nua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Một Bước Yêu, Vạn Dặm Đau",
+    "answers": [
+      "một bước yêu, vạn dặm đau",
+      "mot buoc yeu, van dam dau",
+      "1 bước yêu, vạn dặm đau",
+      "1 buoc yeu, van dam dau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu Em Dài Lâu",
+    "answers": [
+      "yêu e dài lâu",
+      "yeu e dai lau",
+      "yêu em dài lâu",
+      "yeu em dai lau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lời Yêu Ngây Dại",
+    "answers": [
+      "lời yêu ngây dại",
+      "loi yeu ngay dai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Có Chắc Yêu Là Đây",
+    "answers": [
+      "có chắc yêu là đây",
+      "co chac yeu la day"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ngày Mai Em Đi",
+    "answers": [
+      "ngày mai e đi",
+      "ngay mai e di",
+      "ngày mai em đi",
+      "ngay mai em di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Gọi Tên Em Trong Đêm",
+    "answers": [
+      "gọi tên e trong đêm",
+      "goi ten e trong dem",
+      "gọi tên em trong đêm",
+      "goi ten em trong dem"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bước Qua Nhau",
+    "answers": [
+      "bước qua nhau",
+      "buoc qua nhau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tìm Một Nửa Của Mình",
+    "answers": [
+      "tìm một nửa của mình",
+      "tim mot nua cua minh",
+      "tìm 1 nửa của mình",
+      "tim 1 nua cua minh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Rời Bỏ",
+    "answers": [
+      "rời bỏ",
+      "roi bo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sống Xa Anh Chẳng Dễ Dàng",
+    "answers": [
+      "sống xa a chẳng dễ dàng",
+      "song xa a chang de dang",
+      "sống xa anh chẳng dễ dàng",
+      "song xa anh chang de dang"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sao Em Vẫn Chưa Về",
+    "answers": [
+      "sao e vẫn chưa về",
+      "sao e van chua ve",
+      "sao em vẫn chưa về",
+      "sao em van chua ve"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ánh Nắng Của Anh",
+    "answers": [
+      "ánh nắng của a",
+      "anh nang cua a",
+      "ánh nắng của anh",
+      "anh nang cua anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chỉ Là Không Cùng Nhau",
+    "answers": [
+      "chỉ là ko cùng nhau",
+      "chi la ko cung nhau",
+      "chỉ là k cùng nhau",
+      "chi la k cung nhau",
+      "chỉ là không cùng nhau",
+      "chi la khong cung nhau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đi Để Trở Về",
+    "answers": [
+      "đi để trở về",
+      "di de tro ve"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hãy Trao Cho Anh",
+    "answers": [
+      "hãy trao cho a",
+      "hay trao cho a",
+      "hãy trao cho anh",
+      "hay trao cho anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bên Trên Tầng Lầu",
+    "answers": [
+      "bên trên tầng lầu",
+      "ben tren tang lau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Không Thể Quên",
+    "answers": [
+      "ko thể quên",
+      "ko the quen",
+      "k thể quên",
+      "k the quen",
+      "không thể quên",
+      "khong the quen"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Như Những Ngày Đã Qua",
+    "answers": [
+      "như những ngày đã qua",
+      "nhu nhung ngay da qua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bên Em Là Biển Rộng",
+    "answers": [
+      "bên e là biển rộng",
+      "ben e la bien rong",
+      "bên em là biển rộng",
+      "ben em la bien rong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cô Gái Của Mùa Đông",
+    "answers": [
+      "cô gái của mùa đông",
+      "co gai cua mua dong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình Yêu Màu Nắng",
+    "answers": [
+      "tình yêu màu nắng",
+      "tinh yeu mau nang"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hạnh Phúc Mới",
+    "answers": [
+      "hạnh phúc mới",
+      "hanh phuc moi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Có Em Chờ",
+    "answers": [
+      "có e chờ",
+      "co e cho",
+      "có em chờ",
+      "co em cho"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Để Mị Nói Cho Mà Nghe",
+    "answers": [
+      "để mị nói cho mà nghe",
+      "de mi noi cho ma nghe"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Là Bà Nội Của Anh",
+    "answers": [
+      "e là bà nội của a",
+      "e la ba noi cua a",
+      "e là bà nội của anh",
+      "e la ba noi cua anh",
+      "em là bà nội của a",
+      "em la ba noi cua a",
+      "em là bà nội của anh",
+      "em la ba noi cua anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu Một Người Sao Đau Đến Thế",
+    "answers": [
+      "yêu một người sao đau đến thế",
+      "yeu mot nguoi sao dau den the",
+      "yêu 1 người sao đau đến thế",
+      "yeu 1 nguoi sao dau den the"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nơi Tình Yêu Bắt Đầu",
+    "answers": [
+      "nơi tình yêu bắt đầu",
+      "noi tinh yeu bat dau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chỉ Cần Em Hạnh Phúc",
+    "answers": [
+      "chỉ cần e hạnh phúc",
+      "chi can e hanh phuc",
+      "chỉ cần em hạnh phúc",
+      "chi can em hanh phuc"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vì Yêu Là Đủ",
+    "answers": [
+      "vì yêu là đủ",
+      "vi yeu la du"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu Lại Từ Đầu",
+    "answers": [
+      "yêu lại từ đầu",
+      "yeu lai tu dau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Khi Người Đàn Ông Khóc",
+    "answers": [
+      "khi người đàn ông khóc",
+      "khi nguoi dan ong khoc"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tháng Tư Là Lời Nói Dối Của Em",
+    "answers": [
+      "tháng tư là lời nói dối của e",
+      "thang tu la loi noi doi cua e",
+      "tháng tư là lời nói dối của em",
+      "thang tu la loi noi doi cua em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Người Lạ Ơi",
+    "answers": [
+      "người lạ ơi",
+      "nguoi la oi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mình Yêu Nhau Đi",
+    "answers": [
+      "mình yêu nhau đi",
+      "minh yeu nhau di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cứ Thế Rời Xa",
+    "answers": [
+      "cứ thế rời xa",
+      "cu the roi xa"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Không Sai, Chúng Ta Sai",
+    "answers": [
+      "e ko sai, chúng ta sai",
+      "e ko sai, chung ta sai",
+      "e k sai, chúng ta sai",
+      "e k sai, chung ta sai",
+      "e không sai, chúng ta sai",
+      "e khong sai, chung ta sai",
+      "em ko sai, chúng ta sai",
+      "em ko sai, chung ta sai",
+      "em k sai, chúng ta sai",
+      "em k sai, chung ta sai",
+      "em không sai, chúng ta sai",
+      "em khong sai, chung ta sai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Làm Vợ Anh Nhé",
+    "answers": [
+      "làm vợ a nhé",
+      "lam vo a nhe",
+      "làm vợ anh nhé",
+      "lam vo anh nhe"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tìm Lại Bầu Trời",
+    "answers": [
+      "tìm lại bầu trời",
+      "tim lai bau troi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hãy Quên Anh Đi",
+    "answers": [
+      "hãy quên a đi",
+      "hay quen a di",
+      "hãy quên anh đi",
+      "hay quen anh di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Từng Là Tất Cả",
+    "answers": [
+      "từng là tất cả",
+      "tung la tat ca"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chuyện Đôi Ta",
+    "answers": [
+      "chuyện đôi ta",
+      "chuyen doi ta"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Dẫu Có Lỗi Lầm",
+    "answers": [
+      "dẫu có lỗi lầm",
+      "dau co loi lam"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Đã Quên",
+    "answers": [
+      "e đã quên",
+      "e da quen",
+      "em đã quên",
+      "em da quen"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Và Ngày Nào Đó",
+    "answers": [
+      "và ngày nào đó",
+      "va ngay nao do"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu Thương Đong Đầy",
+    "answers": [
+      "yêu thương đong đầy",
+      "yeu thuong dong day"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cơn Mưa Ngang Qua",
+    "answers": [
+      "cơn mưa ngang qua",
+      "con mua ngang qua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đếm Ngày Xa Em",
+    "answers": [
+      "đếm ngày xa e",
+      "dem ngay xa e",
+      "đếm ngày xa em",
+      "dem ngay xa em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đừng Như Thói Quen",
+    "answers": [
+      "đừng như thói quen",
+      "dung nhu thoi quen"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mùa Đông Của Anh",
+    "answers": [
+      "mùa đông của a",
+      "mua dong cua a",
+      "mùa đông của anh",
+      "mua dong cua anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Là Một Thằng Con Trai",
+    "answers": [
+      "là một thằng con trai",
+      "la mot thang con trai",
+      "là 1 thằng con trai",
+      "la 1 thang con trai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Những Ngày Không Quên",
+    "answers": [
+      "những ngày ko quên",
+      "nhung ngay ko quen",
+      "những ngày k quên",
+      "nhung ngay k quen",
+      "những ngày không quên",
+      "nhung ngay khong quen"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bước Nhảy Xì Tin",
+    "answers": [
+      "bước nhảy xì tin",
+      "buoc nhay xi tin"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chờ Ngày Mặt Trời Xuất Hiện",
+    "answers": [
+      "chờ ngày mặt trời xuất hiện",
+      "cho ngay mat troi xuat hien"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thời Gian Sẽ Nói",
+    "answers": [
+      "thời gian sẽ nói",
+      "thoi gian se noi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Khi Ta Yêu Nhau",
+    "answers": [
+      "khi ta yêu nhau",
+      "khi ta yeu nhau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cô Đơn Trên Sofa",
+    "answers": [
+      "cô đơn trên sofa",
+      "co don tren sofa"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lời Hứa Từ Trái Tim",
+    "answers": [
+      "lời hứa từ trái tim",
+      "loi hua tu trai tim"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chỉ Là Giấc Mơ",
+    "answers": [
+      "chỉ là giấc mơ",
+      "chi la giac mo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hãy Về Đây Bên Anh",
+    "answers": [
+      "hãy về đây bên a",
+      "hay ve day ben a",
+      "hãy về đây bên anh",
+      "hay ve day ben anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đừng Rời Xa",
+    "answers": [
+      "đừng rời xa",
+      "dung roi xa"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nơi Đâu Có Em",
+    "answers": [
+      "nơi đâu có e",
+      "noi dau co e",
+      "nơi đâu có em",
+      "noi dau co em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình Yêu Không Có Lỗi",
+    "answers": [
+      "tình yêu ko có lỗi",
+      "tinh yeu ko co loi",
+      "tình yêu k có lỗi",
+      "tinh yeu k co loi",
+      "tình yêu không có lỗi",
+      "tinh yeu khong co loi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu Là Đủ",
+    "answers": [
+      "yêu là đủ",
+      "yeu la du"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Người Đã Quên",
+    "answers": [
+      "người đã quên",
+      "nguoi da quen"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cố Giang Tình",
+    "answers": [
+      "cố giang tình",
+      "co giang tinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chân Ái",
+    "answers": [
+      "chân ái",
+      "chan ai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh Thanh Niên",
+    "answers": [
+      "a thanh niên",
+      "a thanh nien",
+      "anh thanh niên",
+      "anh thanh nien"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Kẻ Cắp Gặp Bà Già",
+    "answers": [
+      "kẻ cắp gặp bà già",
+      "ke cap gap ba gia"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thiệp Hồng Người Dưng",
+    "answers": [
+      "thiệp hồng người dưng",
+      "thiep hong nguoi dung"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Có Nghe",
+    "answers": [
+      "e có nghe",
+      "e co nghe",
+      "em có nghe",
+      "em co nghe"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sợ Rằng Em Biết Anh Còn Yêu Em",
+    "answers": [
+      "sợ rằng e biết a còn yêu e",
+      "so rang e biet a con yeu e",
+      "sợ rằng e biết a còn yêu em",
+      "so rang e biet a con yeu em",
+      "sợ rằng e biết anh còn yêu e",
+      "so rang e biet anh con yeu e",
+      "sợ rằng e biết anh còn yêu em",
+      "so rang e biet anh con yeu em",
+      "sợ rằng e bt a còn yêu e",
+      "so rang e bt a con yeu e",
+      "sợ rằng e bt a còn yêu em",
+      "so rang e bt a con yeu em",
+      "sợ rằng e bt anh còn yêu e",
+      "so rang e bt anh con yeu e",
+      "sợ rằng e bt anh còn yêu em",
+      "so rang e bt anh con yeu em",
+      "sợ rằng em biết a còn yêu e",
+      "so rang em biet a con yeu e",
+      "sợ rằng em biết a còn yêu em",
+      "so rang em biet a con yeu em",
+      "sợ rằng em biết anh còn yêu e",
+      "so rang em biet anh con yeu e",
+      "sợ rằng em biết anh còn yêu em",
+      "so rang em biet anh con yeu em",
+      "sợ rằng em bt a còn yêu e",
+      "so rang em bt a con yeu e",
+      "sợ rằng em bt a còn yêu em",
+      "so rang em bt a con yeu em",
+      "sợ rằng em bt anh còn yêu e",
+      "so rang em bt anh con yeu e",
+      "sợ rằng em bt anh còn yêu em",
+      "so rang em bt anh con yeu em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ngày Tận Thế",
+    "answers": [
+      "ngày tận thế",
+      "ngay tan the"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cần Gì Hơn",
+    "answers": [
+      "cần gì hơn",
+      "can gi hon"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thuận Theo Ý Trời",
+    "answers": [
+      "thuận theo ý trời",
+      "thuan theo y troi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nhớ Lắm Đấy",
+    "answers": [
+      "nhớ lắm đấy",
+      "nho lam day"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cô Thắm Không Về",
+    "answers": [
+      "cô thắm ko về",
+      "co tham ko ve",
+      "cô thắm k về",
+      "co tham k ve",
+      "cô thắm không về",
+      "co tham khong ve"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Ổn Chứ",
+    "answers": [
+      "e ổn chứ",
+      "e on chu",
+      "em ổn chứ",
+      "em on chu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nếu Không Còn Yêu",
+    "answers": [
+      "nếu ko còn yêu",
+      "neu ko con yeu",
+      "nếu k còn yêu",
+      "neu k con yeu",
+      "nếu không còn yêu",
+      "neu khong con yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đã Gần Như Hạnh Phúc",
+    "answers": [
+      "đã gần như hạnh phúc",
+      "da gan nhu hanh phuc"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "6 Năm Không Gặp",
+    "answers": [
+      "sáu năm ko gặp",
+      "sau nam ko gap",
+      "sáu năm k gặp",
+      "sau nam k gap",
+      "sáu năm không gặp",
+      "sau nam khong gap",
+      "sáu 5 ko gặp",
+      "sau 5 ko gap",
+      "sáu 5 k gặp",
+      "sau 5 k gap",
+      "sáu 5 không gặp",
+      "sau 5 khong gap",
+      "6 năm ko gặp",
+      "6 nam ko gap",
+      "6 năm k gặp",
+      "6 nam k gap",
+      "6 năm không gặp",
+      "6 nam khong gap",
+      "6 5 ko gặp",
+      "6 5 ko gap",
+      "6 5 k gặp",
+      "6 5 k gap",
+      "6 5 không gặp",
+      "6 5 khong gap"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đi Đu Đưa Đi",
+    "answers": [
+      "đi đu đưa đi",
+      "di du dua di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Từng Yêu",
+    "answers": [
+      "từng yêu",
+      "tung yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vì Yêu Anh Sẽ",
+    "answers": [
+      "vì yêu a sẽ",
+      "vi yeu a se",
+      "vì yêu anh sẽ",
+      "vi yeu anh se"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình Sầu Thiên Thu Muôn Lối",
+    "answers": [
+      "tình sầu thiên thu muôn lối",
+      "tinh sau thien thu muon loi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ta Là Của Nhau",
+    "answers": [
+      "ta là của nhau",
+      "ta la cua nhau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sau Này, Hãy Gặp Lại Nhau Khi Hoa Nở",
+    "answers": [
+      "sau này, hãy gặp lại nhau khi hoa nở",
+      "sau nay, hay gap lai nhau khi hoa no"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vì Em Quá Cô Đơn",
+    "answers": [
+      "vì e quá cô đơn",
+      "vi e qua co don",
+      "vì em quá cô đơn",
+      "vi em qua co don"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nói Em Nghe Về Cô Ấy",
+    "answers": [
+      "nói e nghe về cô ấy",
+      "noi e nghe ve co ay",
+      "nói em nghe về cô ấy",
+      "noi em nghe ve co ay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Một Nửa Yêu Thương",
+    "answers": [
+      "một nửa yêu thương",
+      "mot nua yeu thuong",
+      "1 nửa yêu thương",
+      "1 nua yeu thuong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sau Này",
+    "answers": [
+      "sau này",
+      "sau nay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Như Anh Mơ",
+    "answers": [
+      "như a mơ",
+      "nhu a mo",
+      "như anh mơ",
+      "nhu anh mo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh Cần Em",
+    "answers": [
+      "a cần e",
+      "a can e",
+      "a cần em",
+      "a can em",
+      "anh cần e",
+      "anh can e",
+      "anh cần em",
+      "anh can em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Giờ Thì Anh Hứa Để Làm Gì",
+    "answers": [
+      "giờ thì a hứa để làm gì",
+      "gio thi a hua de lam gi",
+      "giờ thì anh hứa để làm gì",
+      "gio thi anh hua de lam gi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đâu Ai Biết Trước Được Chữ Ngờ",
+    "answers": [
+      "đâu ai biết trước được chữ ngờ",
+      "dau ai biet truoc duoc chu ngo",
+      "đâu ai bt trước được chữ ngờ",
+      "dau ai bt truoc duoc chu ngo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mọi Người Che Mặt Sống",
+    "answers": [
+      "mọi người che mặt sống",
+      "moi nguoi che mat song"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cầu Vồng Khuyết",
+    "answers": [
+      "cầu vồng khuyết",
+      "cau vong khuyet"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Như Lúc Ban Đầu",
+    "answers": [
+      "như lúc ban đầu",
+      "nhu luc ban dau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tôi Không Tin",
+    "answers": [
+      "tôi ko tin",
+      "toi ko tin",
+      "tôi k tin",
+      "toi k tin",
+      "tôi không tin",
+      "toi khong tin"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ước Mơ Của Mẹ",
+    "answers": [
+      "ước mơ của mẹ",
+      "uoc mo cua me"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vì Mình",
+    "answers": [
+      "vì mình",
+      "vi minh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nụ Cười",
+    "answers": [
+      "nụ cười",
+      "nu cuoi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tiễn COVID",
+    "answers": [
+      "tiễn covid",
+      "tien covid"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chạy Theo Em",
+    "answers": [
+      "chạy theo e",
+      "chay theo e",
+      "chạy theo em",
+      "chay theo em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Con Đường Mưa",
+    "answers": [
+      "con đường mưa",
+      "con duong mua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bài Ca Cách Ly Corona",
+    "answers": [
+      "bài ca cách ly corona",
+      "bai ca cach ly corona"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Duyên Âm",
+    "answers": [
+      "duyên âm",
+      "duyen am"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cuộc Gọi",
+    "answers": [
+      "cuộc gọi",
+      "cuoc goi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cánh Hoa Tổn Thương",
+    "answers": [
+      "cánh hoa tổn thương",
+      "canh hoa ton thuong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Khó Vẽ Nụ Cười",
+    "answers": [
+      "khó vẽ nụ cười",
+      "kho ve nu cuoi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vầng Trăng Cô Đơn",
+    "answers": [
+      "vầng trăng cô đơn",
+      "vang trang co don"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vì Một Người Ra Đi",
+    "answers": [
+      "vì một người ra đi",
+      "vi mot nguoi ra di",
+      "vì 1 người ra đi",
+      "vi 1 nguoi ra di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình Khúc Vàng",
+    "answers": [
+      "tình khúc vàng",
+      "tinh khuc vang"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Những Kẻ Mộng Mơ",
+    "answers": [
+      "những kẻ mộng mơ",
+      "nhung ke mong mo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "My Everything",
+    "answers": [
+      "my everything"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Dối Lòng",
+    "answers": [
+      "dối lòng",
+      "doi long"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thank You",
+    "answers": [
+      "thank you"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chàng Và Nàng",
+    "answers": [
+      "chàng và nàng",
+      "chang va nang"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình Đơn Phương",
+    "answers": [
+      "tình đơn phương",
+      "tinh don phuong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tự Giác Cách Ly",
+    "answers": [
+      "tự giác cách ly",
+      "tu giac cach ly"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mình Xa Mình Yêu",
+    "answers": [
+      "mình xa mình yêu",
+      "minh xa minh yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu Em Rất Nhiều",
+    "answers": [
+      "yêu e rất nhiều",
+      "yeu e rat nhieu",
+      "yêu em rất nhiều",
+      "yeu em rat nhieu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Điều Ngọt Ngào Nhất",
+    "answers": [
+      "điều ngọt ngào nhất",
+      "dieu ngot ngao nhat"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mình Yêu Nhau Từ Kiếp Nào",
+    "answers": [
+      "mình yêu nhau từ kiếp nào",
+      "minh yeu nhau tu kiep nao"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thích Thì Đến",
+    "answers": [
+      "thích thì đến",
+      "thich thi den"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Đây Chẳng Phải Thúy Kiều",
+    "answers": [
+      "e đây chẳng phải thúy kiều",
+      "e day chang phai thuy kieu",
+      "em đây chẳng phải thúy kiều",
+      "em day chang phai thuy kieu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Người Ta Nói",
+    "answers": [
+      "người ta nói",
+      "nguoi ta noi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chờ Ngày Anh Nhận Ra Em",
+    "answers": [
+      "chờ ngày a nhận ra e",
+      "cho ngay a nhan ra e",
+      "chờ ngày a nhận ra em",
+      "cho ngay a nhan ra em",
+      "chờ ngày anh nhận ra e",
+      "cho ngay anh nhan ra e",
+      "chờ ngày anh nhận ra em",
+      "cho ngay anh nhan ra em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chỉ Còn Nỗi Nhớ",
+    "answers": [
+      "chỉ còn nỗi nhớ",
+      "chi con noi nho"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Còn Thương Thì Không Để Em Khóc",
+    "answers": [
+      "còn thương thì ko để e khóc",
+      "con thuong thi ko de e khoc",
+      "còn thương thì ko để em khóc",
+      "con thuong thi ko de em khoc",
+      "còn thương thì k để e khóc",
+      "con thuong thi k de e khoc",
+      "còn thương thì k để em khóc",
+      "con thuong thi k de em khoc",
+      "còn thương thì không để e khóc",
+      "con thuong thi khong de e khoc",
+      "còn thương thì không để em khóc",
+      "con thuong thi khong de em khoc"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Rực Rỡ Tháng Năm",
+    "answers": [
+      "rực rỡ tháng năm",
+      "ruc ro thang nam",
+      "rực rỡ tháng 5",
+      "ruc ro thang 5"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Quên một lời thề",
+    "answers": [
+      "quên một lời thề",
+      "quen mot loi the",
+      "quên 1 lời thề",
+      "quen 1 loi the"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Dĩ Nhiên Em Không Ở Đây",
+    "answers": [
+      "dĩ nhiên e ko ở đây",
+      "di nhien e ko o day",
+      "dĩ nhiên e k ở đây",
+      "di nhien e k o day",
+      "dĩ nhiên e không ở đây",
+      "di nhien e khong o day",
+      "dĩ nhiên em ko ở đây",
+      "di nhien em ko o day",
+      "dĩ nhiên em k ở đây",
+      "di nhien em k o day",
+      "dĩ nhiên em không ở đây",
+      "di nhien em khong o day"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Love You, Hate You",
+    "answers": [
+      "love you, hate you"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mãi Mãi Bên Nhau",
+    "answers": [
+      "mãi mãi bên nhau",
+      "mai mai ben nhau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sai Người Sai Thời Điểm",
+    "answers": [
+      "sai người sai thời điểm",
+      "sai nguoi sai thoi diem"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lửng Lơ",
+    "answers": [
+      "lửng lơ",
+      "lung lo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Khoảng Lặng Mùa Đông",
+    "answers": [
+      "khoảng lặng mùa đông",
+      "khoang lang mua dong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ngay Lúc Này",
+    "answers": [
+      "ngay lúc này",
+      "ngay luc nay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nơi Em Muốn Tới",
+    "answers": [
+      "nơi e muốn tới",
+      "noi e muon toi",
+      "nơi em muốn tới",
+      "noi em muon toi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mượn Rượu Tỏ Tình",
+    "answers": [
+      "mượn rượu tỏ tình",
+      "muon ruou to tinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thầm Yêu",
+    "answers": [
+      "thầm yêu",
+      "tham yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cánh Hồng Phai",
+    "answers": [
+      "cánh hồng phai",
+      "canh hong phai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Liệu Anh Có Thể Yêu Em",
+    "answers": [
+      "liệu a có thể yêu e",
+      "lieu a co the yeu e",
+      "liệu a có thể yêu em",
+      "lieu a co the yeu em",
+      "liệu anh có thể yêu e",
+      "lieu anh co the yeu e",
+      "liệu anh có thể yêu em",
+      "lieu anh co the yeu em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh Chẳng Sao Mà",
+    "answers": [
+      "a chẳng sao mà",
+      "a chang sao ma",
+      "anh chẳng sao mà",
+      "anh chang sao ma"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Điều Không Đơn Giản",
+    "answers": [
+      "điều ko đơn giản",
+      "dieu ko don gian",
+      "điều k đơn giản",
+      "dieu k don gian",
+      "điều không đơn giản",
+      "dieu khong don gian"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thương Em Là Điều Anh Không Thể Ngờ",
+    "answers": [
+      "thương e là điều a ko thể ngờ",
+      "thuong e la dieu a ko the ngo",
+      "thương e là điều a k thể ngờ",
+      "thuong e la dieu a k the ngo",
+      "thương e là điều a không thể ngờ",
+      "thuong e la dieu a khong the ngo",
+      "thương e là điều anh ko thể ngờ",
+      "thuong e la dieu anh ko the ngo",
+      "thương e là điều anh k thể ngờ",
+      "thuong e la dieu anh k the ngo",
+      "thương e là điều anh không thể ngờ",
+      "thuong e la dieu anh khong the ngo",
+      "thương em là điều a ko thể ngờ",
+      "thuong em la dieu a ko the ngo",
+      "thương em là điều a k thể ngờ",
+      "thuong em la dieu a k the ngo",
+      "thương em là điều a không thể ngờ",
+      "thuong em la dieu a khong the ngo",
+      "thương em là điều anh ko thể ngờ",
+      "thuong em la dieu anh ko the ngo",
+      "thương em là điều anh k thể ngờ",
+      "thuong em la dieu anh k the ngo",
+      "thương em là điều anh không thể ngờ",
+      "thuong em la dieu anh khong the ngo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Xin Cho Mãi Yêu",
+    "answers": [
+      "xin cho mãi yêu",
+      "xin cho mai yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Truyền Thái Y",
+    "answers": [
+      "truyền thái y",
+      "truyen thai y"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tự Tâm",
+    "answers": [
+      "tự tâm",
+      "tu tam"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Liệu Giờ",
+    "answers": [
+      "liệu giờ",
+      "lieu gio"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chỉ Vì Quá Yêu Em",
+    "answers": [
+      "chỉ vì quá yêu e",
+      "chi vi qua yeu e",
+      "chỉ vì quá yêu em",
+      "chi vi qua yeu em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chạy Đi",
+    "answers": [
+      "chạy đi",
+      "chay di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ghen Cô Vy",
+    "answers": [
+      "ghen cô vy",
+      "ghen co vy"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lối nhỏ",
+    "answers": [
+      "lối nhỏ",
+      "loi nho"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em không là duy nhất",
+    "answers": [
+      "e ko là duy nhất",
+      "e ko la duy nhat",
+      "e k là duy nhất",
+      "e k la duy nhat",
+      "e không là duy nhất",
+      "e khong la duy nhat",
+      "em ko là duy nhất",
+      "em ko la duy nhat",
+      "em k là duy nhất",
+      "em k la duy nhat",
+      "em không là duy nhất",
+      "em khong la duy nhat"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Đồng Ý",
+    "answers": [
+      "e đồng ý",
+      "e dong y",
+      "em đồng ý",
+      "em dong y"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "neu luc do",
+    "answers": [
+      "neu luc do"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Người Rất Tốt Không Gặp Sẽ Tốt Hơn",
+    "answers": [
+      "người rất tốt ko gặp sẽ tốt hơn",
+      "nguoi rat tot ko gap se tot hon",
+      "người rất tốt k gặp sẽ tốt hơn",
+      "nguoi rat tot k gap se tot hon",
+      "người rất tốt không gặp sẽ tốt hơn",
+      "nguoi rat tot khong gap se tot hon"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cô Gái Này Là Của Ai",
+    "answers": [
+      "cô gái này là của ai",
+      "co gai nay la cua ai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau",
+    "answers": [
+      "rồi ta sẽ ngắm pháo hoa cùng nhau",
+      "roi ta se ngam phao hoa cung nhau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bo Xì Bo",
+    "answers": [
+      "bo xì bo",
+      "bo xi bo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "để tôi ôm em bằng giai điệu này",
+    "answers": [
+      "để tôi ôm e bằng giai điệu này",
+      "de toi om e bang giai dieu nay",
+      "để tôi ôm em bằng giai điệu này",
+      "de toi om em bang giai dieu nay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tín Hiệu Từ Trái Tim",
+    "answers": [
+      "tín hiệu từ trái tim",
+      "tin hieu tu trai tim"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Là Kẻ Đáng Thương",
+    "answers": [
+      "e là kẻ đáng thương",
+      "e la ke dang thuong",
+      "em là kẻ đáng thương",
+      "em la ke dang thuong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mong Một Ngày Anh Nhớ Đến Em",
+    "answers": [
+      "mong một ngày a nhớ đến e",
+      "mong mot ngay a nho den e",
+      "mong một ngày a nhớ đến em",
+      "mong mot ngay a nho den em",
+      "mong một ngày anh nhớ đến e",
+      "mong mot ngay anh nho den e",
+      "mong một ngày anh nhớ đến em",
+      "mong mot ngay anh nho den em",
+      "mong 1 ngày a nhớ đến e",
+      "mong 1 ngay a nho den e",
+      "mong 1 ngày a nhớ đến em",
+      "mong 1 ngay a nho den em",
+      "mong 1 ngày anh nhớ đến e",
+      "mong 1 ngay anh nho den e",
+      "mong 1 ngày anh nhớ đến em",
+      "mong 1 ngay anh nho den em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Waiting For You",
+    "answers": [
+      "waiting for you"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Như Anh Đã Thấy Em",
+    "answers": [
+      "như a đã thấy e",
+      "nhu a da thay e",
+      "như a đã thấy em",
+      "nhu a da thay em",
+      "như anh đã thấy e",
+      "nhu anh da thay e",
+      "như anh đã thấy em",
+      "nhu anh da thay em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu Chỉ Mỗi Em",
+    "answers": [
+      "yêu chỉ mỗi e",
+      "yeu chi moi e",
+      "yêu chỉ mỗi em",
+      "yeu chi moi em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ngủ Một Mình",
+    "answers": [
+      "ngủ một mình",
+      "ngu mot minh",
+      "ngủ 1 mình",
+      "ngu 1 minh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đâu Ai Dám Hứa",
+    "answers": [
+      "đâu ai dám hứa",
+      "dau ai dam hua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Khát Vọng Xanh",
+    "answers": [
+      "khát vọng xanh",
+      "khat vong xanh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bước Qua",
+    "answers": [
+      "bước qua",
+      "buoc qua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "See Tình",
+    "answers": [
+      "see tình",
+      "see tinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vì Anh Đâu Có Biết",
+    "answers": [
+      "vì a đâu có biết",
+      "vi a dau co biet",
+      "vì a đâu có bt",
+      "vi a dau co bt",
+      "vì anh đâu có biết",
+      "vi anh dau co biet",
+      "vì anh đâu có bt",
+      "vi anh dau co bt"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Là Do Em Xui Thôi",
+    "answers": [
+      "là do e xui thôi",
+      "la do e xui thoi",
+      "là do em xui thôi",
+      "la do em xui thoi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bồng Bềnh Bồng Bềnh",
+    "answers": [
+      "bồng bềnh bồng bềnh",
+      "bong benh bong benh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chưa Quên Người Yêu Cũ",
+    "answers": [
+      "chưa quên người yêu cũ",
+      "chua quen nguoi yeu cu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thích Hay Là Yêu",
+    "answers": [
+      "thích hay là yêu",
+      "thich hay la yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ghé Vào Tai",
+    "answers": [
+      "ghé vào tai",
+      "ghe vao tai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Khi Người Mình Yêu Khóc",
+    "answers": [
+      "khi người mình yêu khóc",
+      "khi nguoi minh yeu khoc"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ngày Đầu Tiên",
+    "answers": [
+      "ngày đầu tiên",
+      "ngay dau tien"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Quả Phụ Tướng",
+    "answers": [
+      "quả phụ tướng",
+      "qua phu tuong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Là Coffee",
+    "answers": [
+      "e là coffee",
+      "e la coffee",
+      "em là coffee",
+      "em la coffee"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "CHẠY NGAY ĐI",
+    "answers": [
+      "chạy ngay đi",
+      "chay ngay di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Kiếp Má Hồng",
+    "answers": [
+      "kiếp má hồng",
+      "kiep ma hong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lạc Vào Trong Mơ",
+    "answers": [
+      "lạc vào trong mơ",
+      "lac vao trong mo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ánh Sao Và Bầu Trời",
+    "answers": [
+      "ánh sao và bầu trời",
+      "anh sao va bau troi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Khuất Lối",
+    "answers": [
+      "khuất lối",
+      "khuat loi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Qua Ngày Mai",
+    "answers": [
+      "qua ngày mai",
+      "qua ngay mai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nàng Thơ",
+    "answers": [
+      "nàng thơ",
+      "nang tho"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Người Em Từng Yêu",
+    "answers": [
+      "người e từng yêu",
+      "nguoi e tung yeu",
+      "người em từng yêu",
+      "nguoi em tung yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Trịnh Gia",
+    "answers": [
+      "trịnh gia",
+      "trinh gia"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Khong Yeu Xin Dung Noi",
+    "answers": [
+      "khong yeu xin dung noi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hình Như Ta Thích Nhau",
+    "answers": [
+      "hình như ta thích nhau",
+      "hinh nhu ta thich nhau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "dự báo thời tiết hôm nay mưa",
+    "answers": [
+      "dự báo thời tiết hôm nay mưa",
+      "du bao thoi tiet hom nay mua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vaicaunoicokhiennguoithaydoi",
+    "answers": [
+      "vaicaunoicokhiennguoithaydoi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Treo Cờ Đón Tết",
+    "answers": [
+      "treo cờ đón tết",
+      "treo co don tet"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cuối Cùng Thì",
+    "answers": [
+      "cuối cùng thì",
+      "cuoi cung thi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu Người Có Ước Mơ",
+    "answers": [
+      "yêu người có ước mơ",
+      "yeu nguoi co uoc mo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tết Mới",
+    "answers": [
+      "tết mới",
+      "tet moi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Là",
+    "answers": [
+      "e là",
+      "e la",
+      "em là",
+      "em la"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vì Mẹ Anh Bắt Chia Tay",
+    "answers": [
+      "vì mẹ a bắt chia tay",
+      "vi me a bat chia tay",
+      "vì mẹ anh bắt chia tay",
+      "vi me anh bat chia tay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nếu Em Còn Tồn Tại",
+    "answers": [
+      "nếu e còn tồn tại",
+      "neu e con ton tai",
+      "nếu em còn tồn tại",
+      "neu em con ton tai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Con Gái Là Bảo Bối",
+    "answers": [
+      "con gái là bảo bối",
+      "con gai la bao boi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bao Tiền Một Mớ Bình Yên",
+    "answers": [
+      "bao tiền một mớ bình yên",
+      "bao tien mot mo binh yen",
+      "bao tiền 1 mớ bình yên",
+      "bao tien 1 mo binh yen"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Của Ngày Hôm Qua",
+    "answers": [
+      "e của ngày hôm qua",
+      "e cua ngay hom qua",
+      "em của ngày hôm qua",
+      "em cua ngay hom qua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh Tệ",
+    "answers": [
+      "a tệ",
+      "a te",
+      "anh tệ",
+      "anh te"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đừng Lo Nhé! Có Anh Đây",
+    "answers": [
+      "đừng lo nhé! có a đây",
+      "dung lo nhe! co a day",
+      "đừng lo nhé! có anh đây",
+      "dung lo nhe! co anh day"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ai Rồi Cũng Sẽ Khác",
+    "answers": [
+      "ai rồi cũng sẽ khác",
+      "ai roi cung se khac"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sao Cũng Được",
+    "answers": [
+      "sao cũng được",
+      "sao cung duoc"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chúng Ta Không Thuộc Về Nhau",
+    "answers": [
+      "chúng ta ko thuộc về nhau",
+      "chung ta ko thuoc ve nhau",
+      "chúng ta k thuộc về nhau",
+      "chung ta k thuoc ve nhau",
+      "chúng ta không thuộc về nhau",
+      "chung ta khong thuoc ve nhau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Không Chờ Đợi Nữa",
+    "answers": [
+      "ko chờ đợi nữa",
+      "ko cho doi nua",
+      "k chờ đợi nữa",
+      "k cho doi nua",
+      "không chờ đợi nữa",
+      "khong cho doi nua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vệ Tinh",
+    "answers": [
+      "vệ tinh",
+      "ve tinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Người Như Anh",
+    "answers": [
+      "người như a",
+      "nguoi nhu a",
+      "người như anh",
+      "nguoi nhu anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tòng Phu",
+    "answers": [
+      "tòng phu",
+      "tong phu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hoa Nở Không Màu",
+    "answers": [
+      "hoa nở ko màu",
+      "hoa no ko mau",
+      "hoa nở k màu",
+      "hoa no k mau",
+      "hoa nở không màu",
+      "hoa no khong mau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Dạ Vũ",
+    "answers": [
+      "dạ vũ",
+      "da vu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bình Yên Những Phút Giây",
+    "answers": [
+      "bình yên những phút giây",
+      "binh yen nhung phut giay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "anh muốn mình như con thuyền kia lao vào em rồi đắm chìm",
+    "answers": [
+      "a muốn mình như con thuyền kia lao vào e rồi đắm chìm",
+      "a muon minh nhu con thuyen kia lao vao e roi dam chim",
+      "a muốn mình như con thuyền kia lao vào em rồi đắm chìm",
+      "a muon minh nhu con thuyen kia lao vao em roi dam chim",
+      "anh muốn mình như con thuyền kia lao vào e rồi đắm chìm",
+      "anh muon minh nhu con thuyen kia lao vao e roi dam chim",
+      "anh muốn mình như con thuyền kia lao vào em rồi đắm chìm",
+      "anh muon minh nhu con thuyen kia lao vao em roi dam chim"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "lời tạm biệt chưa nói",
+    "answers": [
+      "lời tạm biệt chưa nói",
+      "loi tam biet chua noi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Buồn Không Thể Buông",
+    "answers": [
+      "buồn ko thể buông",
+      "buon ko the buong",
+      "buồn k thể buông",
+      "buon k the buong",
+      "buồn không thể buông",
+      "buon khong the buong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình Ka Ngọt Ngào",
+    "answers": [
+      "tình ka ngọt ngào",
+      "tinh ka ngot ngao"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh Nhớ Ra",
+    "answers": [
+      "a nhớ ra",
+      "a nho ra",
+      "anh nhớ ra",
+      "anh nho ra"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lao Tâm Khổ Tứ",
+    "answers": [
+      "lao tâm khổ tứ",
+      "lao tam kho tu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Gieo Quẻ",
+    "answers": [
+      "gieo quẻ",
+      "gieo que"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Về Bên Anh",
+    "answers": [
+      "về bên a",
+      "ve ben a",
+      "về bên anh",
+      "ve ben anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "có hẹn với thanh xuân",
+    "answers": [
+      "có hẹn với thanh xuân",
+      "co hen voi thanh xuan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chết Trong Em",
+    "answers": [
+      "chết trong e",
+      "chet trong e",
+      "chết trong em",
+      "chet trong em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh Đã Từ Bỏ Rồi Đấy",
+    "answers": [
+      "a đã từ bỏ rồi đấy",
+      "a da tu bo roi day",
+      "anh đã từ bỏ rồi đấy",
+      "anh da tu bo roi day"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thuyền Quyên",
+    "answers": [
+      "thuyền quyên",
+      "thuyen quyen"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Trọn đời bên em",
+    "answers": [
+      "trọn đời bên e",
+      "tron doi ben e",
+      "trọn đời bên em",
+      "tron doi ben em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Phút Biệt Ly",
+    "answers": [
+      "phút biệt ly",
+      "phut biet ly"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Áo Hoa Bên Người",
+    "answers": [
+      "áo hoa bên người",
+      "ao hoa ben nguoi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Dệt Mộng Uyên Ương",
+    "answers": [
+      "dệt mộng uyên ương",
+      "det mong uyen uong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tôi Đã Lầm Tin Em",
+    "answers": [
+      "tôi đã lầm tin e",
+      "toi da lam tin e",
+      "tôi đã lầm tin em",
+      "toi da lam tin em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Liều Thuốc Cho Trái Tim",
+    "answers": [
+      "liều thuốc cho trái tim",
+      "lieu thuoc cho trai tim"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu Lầm",
+    "answers": [
+      "yêu lầm",
+      "yeu lam"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Giọt Nước Mắt Trong Đêm",
+    "answers": [
+      "giọt nước mắt trong đêm",
+      "giot nuoc mat trong dem"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Khúc Hát Cha Yêu",
+    "answers": [
+      "khúc hát cha yêu",
+      "khuc hat cha yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thao Thức Vì Em",
+    "answers": [
+      "thao thức vì e",
+      "thao thuc vi e",
+      "thao thức vì em",
+      "thao thuc vi em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thành Phố Buồn",
+    "answers": [
+      "thành phố buồn",
+      "thanh pho buon"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sao Em Nỡ Đành Quên",
+    "answers": [
+      "sao e nỡ đành quên",
+      "sao e no danh quen",
+      "sao em nỡ đành quên",
+      "sao em no danh quen"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Qua Cơn Mê",
+    "answers": [
+      "qua cơn mê",
+      "qua con me"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nửa Vầng Trang",
+    "answers": [
+      "nửa vầng trang",
+      "nua vang trang"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu Cả Em Trong Giấc Mơ",
+    "answers": [
+      "yêu cả e trong giấc mơ",
+      "yeu ca e trong giac mo",
+      "yêu cả em trong giấc mơ",
+      "yeu ca em trong giac mo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Say Tình",
+    "answers": [
+      "say tình",
+      "say tinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Xin Lỗi Tình Yêu",
+    "answers": [
+      "xin lỗi tình yêu",
+      "xin loi tinh yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vùng Trời Bình Yên",
+    "answers": [
+      "vùng trời bình yên",
+      "vung troi binh yen"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cảm Ơn Một Niềm Đau",
+    "answers": [
+      "cảm ơn một niềm đau",
+      "cam on mot niem dau",
+      "cảm ơn 1 niềm đau",
+      "cam on 1 niem dau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình lỡ cách xa",
+    "answers": [
+      "tình lỡ cách xa",
+      "tinh lo cach xa"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Dường như ta đã",
+    "answers": [
+      "dường như ta đã",
+      "duong nhu ta da"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Họa mi tóc nâu",
+    "answers": [
+      "họa mi tóc nâu",
+      "hoa mi toc nau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hát với dòng sông",
+    "answers": [
+      "hát với dòng sông",
+      "hat voi dong song"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Khung trời mộng mơ",
+    "answers": [
+      "khung trời mộng mơ",
+      "khung troi mong mo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cây đàn sinh viên",
+    "answers": [
+      "cây đàn sinh viên",
+      "cay dan sinh vien"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chỉ yêu mình anh",
+    "answers": [
+      "chỉ yêu mình a",
+      "chi yeu minh a",
+      "chỉ yêu mình anh",
+      "chi yeu minh anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Khi anh ra đi",
+    "answers": [
+      "khi a ra đi",
+      "khi a ra di",
+      "khi anh ra đi",
+      "khi anh ra di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Còn lại chút yêu thương",
+    "answers": [
+      "còn lại chút yêu thương",
+      "con lai chut yeu thuong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đúng cũng thành sai",
+    "answers": [
+      "đúng cũng thành sai",
+      "dung cung thanh sai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chiếc Khăn Gió Ấm",
+    "answers": [
+      "chiếc khăn gió ấm",
+      "chiec khan gio am"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tôn Thờ Một Tình Yêu",
+    "answers": [
+      "tôn thờ một tình yêu",
+      "ton tho mot tinh yeu",
+      "tôn thờ 1 tình yêu",
+      "ton tho 1 tinh yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chúc Em Bên Người",
+    "answers": [
+      "chúc e bên người",
+      "chuc e ben nguoi",
+      "chúc em bên người",
+      "chuc em ben nguoi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mưa Thủy Tinh",
+    "answers": [
+      "mưa thủy tinh",
+      "mua thuy tinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Người Đến Sau",
+    "answers": [
+      "người đến sau",
+      "nguoi den sau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tha thứ",
+    "answers": [
+      "tha thứ",
+      "tha thu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tam sinh duyên",
+    "answers": [
+      "tam sinh duyên",
+      "tam sinh duyen"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Người ta nói",
+    "answers": [
+      "người ta nói",
+      "nguoi ta noi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tôi đi tìm tôi",
+    "answers": [
+      "tôi đi tìm tôi",
+      "toi di tim toi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nỗi nhớ nơi con tim mồ côi",
+    "answers": [
+      "nỗi nhớ nơi con tim mồ côi",
+      "noi nho noi con tim mo coi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thà rằng như thế",
+    "answers": [
+      "thà rằng như thế",
+      "tha rang nhu the"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hứa thật nhiều thất hứa cũng thật nhiều",
+    "answers": [
+      "hứa thật nhiều thất hứa cũng thật nhiều",
+      "hua that nhieu that hua cung that nhieu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mỗi người một nơi",
+    "answers": [
+      "mỗi người một nơi",
+      "moi nguoi mot noi",
+      "mỗi người 1 nơi",
+      "moi nguoi 1 noi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Kỷ niệm bỏ quên",
+    "answers": [
+      "kỷ niệm bỏ quên",
+      "ky niem bo quen"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vì một người ra đi",
+    "answers": [
+      "vì một người ra đi",
+      "vi mot nguoi ra di",
+      "vì 1 người ra đi",
+      "vi 1 nguoi ra di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh ba khía",
+    "answers": [
+      "a ba khía",
+      "a ba khia",
+      "a 3 khía",
+      "a 3 khia",
+      "anh ba khía",
+      "anh ba khia",
+      "anh 3 khía",
+      "anh 3 khia"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình khúc vàng",
+    "answers": [
+      "tình khúc vàng",
+      "tinh khuc vang"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Còn lại một mình",
+    "answers": [
+      "còn lại một mình",
+      "con lai mot minh",
+      "còn lại 1 mình",
+      "con lai 1 minh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mưa trên cuộc tình",
+    "answers": [
+      "mưa trên cuộc tình",
+      "mua tren cuoc tinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Kiếp ve sầu",
+    "answers": [
+      "kiếp ve sầu",
+      "kiep ve sau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đi về nơi xa",
+    "answers": [
+      "đi về nơi xa",
+      "di ve noi xa"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Email tình yêu",
+    "answers": [
+      "email tình yêu",
+      "email tinh yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Kiếp rong buồn",
+    "answers": [
+      "kiếp rong buồn",
+      "kiep rong buon"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lời nguyện cầu tình yêu",
+    "answers": [
+      "lời nguyện cầu tình yêu",
+      "loi nguyen cau tinh yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh vẫn đợi chờ",
+    "answers": [
+      "a vẫn đợi chờ",
+      "a van doi cho",
+      "anh vẫn đợi chờ",
+      "anh van doi cho"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bé yêu của anh",
+    "answers": [
+      "bé yêu của a",
+      "be yeu cua a",
+      "bé yêu của anh",
+      "be yeu cua anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em về đi",
+    "answers": [
+      "e về đi",
+      "e ve di",
+      "em về đi",
+      "em ve di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh yêu em nhiều lắm",
+    "answers": [
+      "a yêu e nhiều lắm",
+      "a yeu e nhieu lam",
+      "a yêu em nhiều lắm",
+      "a yeu em nhieu lam",
+      "anh yêu e nhiều lắm",
+      "anh yeu e nhieu lam",
+      "anh yêu em nhiều lắm",
+      "anh yeu em nhieu lam"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cuối con đường",
+    "answers": [
+      "cuối con đường",
+      "cuoi con duong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Khi tình yêu đến",
+    "answers": [
+      "khi tình yêu đến",
+      "khi tinh yeu den"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sẽ không còn thấy em",
+    "answers": [
+      "sẽ ko còn thấy e",
+      "se ko con thay e",
+      "sẽ ko còn thấy em",
+      "se ko con thay em",
+      "sẽ k còn thấy e",
+      "se k con thay e",
+      "sẽ k còn thấy em",
+      "se k con thay em",
+      "sẽ không còn thấy e",
+      "se khong con thay e",
+      "sẽ không còn thấy em",
+      "se khong con thay em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tinh yêu không như ta đã muón",
+    "answers": [
+      "tinh yêu ko như ta đã muón",
+      "tinh yeu ko nhu ta da muon",
+      "tinh yêu k như ta đã muón",
+      "tinh yeu k nhu ta da muon",
+      "tinh yêu không như ta đã muón",
+      "tinh yeu khong nhu ta da muon"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hẻm vắng",
+    "answers": [
+      "hẻm vắng",
+      "hem vang"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hãy cứ vui lên bạn ơi",
+    "answers": [
+      "hãy cứ vui lên bạn ơi",
+      "hay cu vui len ban oi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Phai dấu cuộc tình",
+    "answers": [
+      "phai dấu cuộc tình",
+      "phai dau cuoc tinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Miền cát trắng",
+    "answers": [
+      "miền cát trắng",
+      "mien cat trang"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Dịu dàng đến từng phút giây",
+    "answers": [
+      "dịu dàng đến từng phút giây",
+      "diu dang den tung phut giay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình yêu tìm thấy",
+    "answers": [
+      "tình yêu tìm thấy",
+      "tinh yeu tim thay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Trả lại cho nhau",
+    "answers": [
+      "trả lại cho nhau",
+      "tra lai cho nhau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ngôi nhà hoa hồng",
+    "answers": [
+      "ngôi nhà hoa hồng",
+      "ngoi nha hoa hong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nếu lúc trước em đừng tới",
+    "answers": [
+      "nếu lúc trước e đừng tới",
+      "neu luc truoc e dung toi",
+      "nếu lúc trước em đừng tới",
+      "neu luc truoc em dung toi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Điều em không biết",
+    "answers": [
+      "điều e ko biết",
+      "dieu e ko biet",
+      "điều e ko bt",
+      "dieu e ko bt",
+      "điều e k biết",
+      "dieu e k biet",
+      "điều e k bt",
+      "dieu e k bt",
+      "điều e không biết",
+      "dieu e khong biet",
+      "điều e không bt",
+      "dieu e khong bt",
+      "điều em ko biết",
+      "dieu em ko biet",
+      "điều em ko bt",
+      "dieu em ko bt",
+      "điều em k biết",
+      "dieu em k biet",
+      "điều em k bt",
+      "dieu em k bt",
+      "điều em không biết",
+      "dieu em khong biet",
+      "điều em không bt",
+      "dieu em khong bt"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hãy tha thứ cho anh",
+    "answers": [
+      "hãy tha thứ cho a",
+      "hay tha thu cho a",
+      "hãy tha thứ cho anh",
+      "hay tha thu cho anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hát cho người yêu dấu",
+    "answers": [
+      "hát cho người yêu dấu",
+      "hat cho nguoi yeu dau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ngôi nhà Hoa Hồng",
+    "answers": [
+      "ngôi nhà hoa hồng",
+      "ngoi nha hoa hong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Công chúa bong bóng",
+    "answers": [
+      "công chúa bong bóng",
+      "cong chua bong bong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sorry",
+    "answers": [
+      "sorry"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ngọn đồi chong chóng",
+    "answers": [
+      "ngọn đồi chong chóng",
+      "ngon doi chong chong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Trà sữa",
+    "answers": [
+      "trà sữa",
+      "tra sua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tạm biệt trường xưa",
+    "answers": [
+      "tạm biệt trường xưa",
+      "tam biet truong xua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu nhớ",
+    "answers": [
+      "yêu nhớ",
+      "yeu nho"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu mãi yêu",
+    "answers": [
+      "yêu mãi yêu",
+      "yeu mai yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hơi âm mùa đông",
+    "answers": [
+      "hơi âm mùa đông",
+      "hoi am mua dong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Phôi pha",
+    "answers": [
+      "phôi pha",
+      "phoi pha"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Khóc",
+    "answers": [
+      "khóc",
+      "khoc"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ngọt ngào",
+    "answers": [
+      "ngọt ngào",
+      "ngot ngao"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bối rối",
+    "answers": [
+      "bối rối",
+      "boi roi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lời thú tội ngọt ngào",
+    "answers": [
+      "lời thú tội ngọt ngào",
+      "loi thu toi ngot ngao"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Có những yêu thương nào",
+    "answers": [
+      "có những yêu thương nào",
+      "co nhung yeu thuong nao"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cho em một lần yêu",
+    "answers": [
+      "cho e một lần yêu",
+      "cho e mot lan yeu",
+      "cho e 1 lần yêu",
+      "cho e 1 lan yeu",
+      "cho em một lần yêu",
+      "cho em mot lan yeu",
+      "cho em 1 lần yêu",
+      "cho em 1 lan yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Giận lòng",
+    "answers": [
+      "giận lòng",
+      "gian long"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tìm anh",
+    "answers": [
+      "tìm a",
+      "tim a",
+      "tìm anh",
+      "tim anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Từng thuộc về nhau",
+    "answers": [
+      "từng thuộc về nhau",
+      "tung thuoc ve nhau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cất giấu ký ức",
+    "answers": [
+      "cất giấu ký ức",
+      "cat giau ky uc"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Người yêu cũ",
+    "answers": [
+      "người yêu cũ",
+      "nguoi yeu cu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cành phi yến trong mưa",
+    "answers": [
+      "cành phi yến trong mưa",
+      "canh phi yen trong mua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thiên duyên tiền định",
+    "answers": [
+      "thiên duyên tiền định",
+      "thien duyen tien dinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Gửi cho anh",
+    "answers": [
+      "gửi cho a",
+      "gui cho a",
+      "gửi cho anh",
+      "gui cho anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Góc nhỏ trong tim",
+    "answers": [
+      "góc nhỏ trong tim",
+      "goc nho trong tim"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vì sao",
+    "answers": [
+      "vì sao",
+      "vi sao"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thương hại",
+    "answers": [
+      "thương hại",
+      "thuong hai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Khóc đêm",
+    "answers": [
+      "khóc đêm",
+      "khoc dem"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thôi mình chia tay",
+    "answers": [
+      "thôi mình chia tay",
+      "thoi minh chia tay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Trách anh",
+    "answers": [
+      "trách a",
+      "trach a",
+      "trách anh",
+      "trach anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh đang nơi đâu",
+    "answers": [
+      "a đang nơi đâu",
+      "a dang noi dau",
+      "anh đang nơi đâu",
+      "anh dang noi dau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Con tim mong manh",
+    "answers": [
+      "con tim mong manh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đừng bắt em phải quên",
+    "answers": [
+      "đừng bắt e phải quên",
+      "dung bat e phai quen",
+      "đừng bắt em phải quên",
+      "dung bat em phai quen"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em vẫn hy vọng",
+    "answers": [
+      "e vẫn hy vọng",
+      "e van hy vong",
+      "em vẫn hy vọng",
+      "em van hy vong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em nhớ anh",
+    "answers": [
+      "e nhớ a",
+      "e nho a",
+      "e nhớ anh",
+      "e nho anh",
+      "em nhớ a",
+      "em nho a",
+      "em nhớ anh",
+      "em nho anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em yêu anh",
+    "answers": [
+      "e yêu a",
+      "e yeu a",
+      "e yêu anh",
+      "e yeu anh",
+      "em yêu a",
+      "em yeu a",
+      "em yêu anh",
+      "em yeu anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Giả vờ nhưng em yêu anh",
+    "answers": [
+      "giả vờ nhưng e yêu a",
+      "gia vo nhung e yeu a",
+      "giả vờ nhưng e yêu anh",
+      "gia vo nhung e yeu anh",
+      "giả vờ nhưng em yêu a",
+      "gia vo nhung em yeu a",
+      "giả vờ nhưng em yêu anh",
+      "gia vo nhung em yeu anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lặng thầm yêu",
+    "answers": [
+      "lặng thầm yêu",
+      "lang tham yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Quên như chưa từng yêu",
+    "answers": [
+      "quên như chưa từng yêu",
+      "quen nhu chua tung yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình yêu mang theo",
+    "answers": [
+      "tình yêu mang theo",
+      "tinh yeu mang theo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Khóc cùng em",
+    "answers": [
+      "khóc cùng e",
+      "khoc cung e",
+      "khóc cùng em",
+      "khoc cung em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mình yêu nhau từ kiếp nào",
+    "answers": [
+      "mình yêu nhau từ kiếp nào",
+      "minh yeu nhau tu kiep nao"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chuyện như chưa bắt đầu",
+    "answers": [
+      "chuyện như chưa bắt đầu",
+      "chuyen nhu chua bat dau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yếu đuối",
+    "answers": [
+      "yếu đuối",
+      "yeu duoi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vô cùng",
+    "answers": [
+      "vô cùng",
+      "vo cung"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu Như Ngày Yêu Cuối",
+    "answers": [
+      "yêu như ngày yêu cuối",
+      "yeu nhu ngay yeu cuoi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em của ngày hôm qua",
+    "answers": [
+      "e của ngày hôm qua",
+      "e cua ngay hom qua",
+      "em của ngày hôm qua",
+      "em cua ngay hom qua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tận cùng nỗi nhớ",
+    "answers": [
+      "tận cùng nỗi nhớ",
+      "tan cung noi nho"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nơi tình yêu bắt đầu",
+    "answers": [
+      "nơi tình yêu bắt đầu",
+      "noi tinh yeu bat dau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hoa nở không màu",
+    "answers": [
+      "hoa nở ko màu",
+      "hoa no ko mau",
+      "hoa nở k màu",
+      "hoa no k mau",
+      "hoa nở không màu",
+      "hoa no khong mau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ai chung tình được mãi",
+    "answers": [
+      "ai chung tình được mãi",
+      "ai chung tinh duoc mai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hồng Nhan",
+    "answers": [
+      "hồng nhan",
+      "hong nhan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sau lưng anh có ai kìa",
+    "answers": [
+      "sau lưng a có ai kìa",
+      "sau lung a co ai kia",
+      "sau lưng anh có ai kìa",
+      "sau lung anh co ai kia"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lạc trôi",
+    "answers": [
+      "lạc trôi",
+      "lac troi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đã biết sẽ có ngày hôm qua",
+    "answers": [
+      "đã biết sẽ có ngày hôm qua",
+      "da biet se co ngay hom qua",
+      "đã bt sẽ có ngày hôm qua",
+      "da bt se co ngay hom qua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đừng như thói quen",
+    "answers": [
+      "đừng như thói quen",
+      "dung nhu thoi quen"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đừng ai nhắc về anh ấy",
+    "answers": [
+      "đừng ai nhắc về a ấy",
+      "dung ai nhac ve a ay",
+      "đừng ai nhắc về anh ấy",
+      "dung ai nhac ve anh ay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vợ người ta",
+    "answers": [
+      "vợ người ta",
+      "vo nguoi ta"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Có chàng trai viết lên cây",
+    "answers": [
+      "có chàng trai viết lên cây",
+      "co chang trai viet len cay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đúng người đúng thời điểm",
+    "answers": [
+      "đúng người đúng thời điểm",
+      "dung nguoi dung thoi diem"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hôm nay em cưới rồi",
+    "answers": [
+      "hôm nay e cưới rồi",
+      "hom nay e cuoi roi",
+      "hôm nay em cưới rồi",
+      "hom nay em cuoi roi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Khi em lớn",
+    "answers": [
+      "khi e lớn",
+      "khi e lon",
+      "khi em lớn",
+      "khi em lon"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nàng thơ",
+    "answers": [
+      "nàng thơ",
+      "nang tho"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Phía sau em: Kay Trần",
+    "answers": [
+      "phía sau em: kay trần",
+      "phia sau em: kay tran"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Suy nghĩ trong anh",
+    "answers": [
+      "suy nghĩ trong a",
+      "suy nghi trong a",
+      "suy nghĩ trong anh",
+      "suy nghi trong anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tìm lại bầu trời",
+    "answers": [
+      "tìm lại bầu trời",
+      "tim lai bau troi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đu đi đưa đi",
+    "answers": [
+      "đu đi đưa đi",
+      "du di dua di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lười yêu",
+    "answers": [
+      "lười yêu",
+      "luoi yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em gái mưa",
+    "answers": [
+      "e gái mưa",
+      "e gai mua",
+      "em gái mưa",
+      "em gai mua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mượn rượu tỏ tình",
+    "answers": [
+      "mượn rượu tỏ tình",
+      "muon ruou to tinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cánh hồng phai",
+    "answers": [
+      "cánh hồng phai",
+      "canh hong phai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đom đóm",
+    "answers": [
+      "đom đóm",
+      "dom dom"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Khác biệt to lớn",
+    "answers": [
+      "khác biệt to lớn",
+      "khac biet to lon"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thiêu Thân",
+    "answers": [
+      "thiêu thân",
+      "thieu than"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Người lạ ơi",
+    "answers": [
+      "người lạ ơi",
+      "nguoi la oi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vì mẹ anh bắt chia tay",
+    "answers": [
+      "vì mẹ a bắt chia tay",
+      "vi me a bat chia tay",
+      "vì mẹ anh bắt chia tay",
+      "vi me anh bat chia tay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tay vớt ánh trăng",
+    "answers": [
+      "tay vớt ánh trăng",
+      "tay vot anh trang"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Câu hẹn câu thề",
+    "answers": [
+      "câu hẹn câu thề",
+      "cau hen cau the"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hẹn ước từ hư vô",
+    "answers": [
+      "hẹn ước từ hư vô",
+      "hen uoc tu hu vo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hạnh phúc mới",
+    "answers": [
+      "hạnh phúc mới",
+      "hanh phuc moi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chắc ai đó sẽ về",
+    "answers": [
+      "chắc ai đó sẽ về",
+      "chac ai do se ve"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Dòng thời gian",
+    "answers": [
+      "dòng thời gian",
+      "dong thoi gian"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đế vương",
+    "answers": [
+      "đế vương",
+      "de vuong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cô đơn dành cho ai",
+    "answers": [
+      "cô đơn dành cho ai",
+      "co don danh cho ai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ca khúc nhạc trẻ hay: Yêu là cưới",
+    "answers": [
+      "ca khúc nhạc trẻ hay: yêu là cưới",
+      "ca khuc nhac tre hay: yeu la cuoi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình thương phu thê",
+    "answers": [
+      "tình thương phu thê",
+      "tinh thuong phu the"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "ước mơ của mẹ",
+    "answers": [
+      "ước mơ của mẹ",
+      "uoc mo cua me"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ít nhưng dài lâu",
+    "answers": [
+      "ít nhưng dài lâu",
+      "it nhung dai lau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chạy về phía anh",
+    "answers": [
+      "chạy về phía a",
+      "chay ve phia a",
+      "chạy về phía anh",
+      "chay ve phia anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Không trọn vẹn nữa",
+    "answers": [
+      "ko trọn vẹn nữa",
+      "ko tron ven nua",
+      "k trọn vẹn nữa",
+      "k tron ven nua",
+      "không trọn vẹn nữa",
+      "khong tron ven nua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Có em đây",
+    "answers": [
+      "có e đây",
+      "co e day",
+      "có em đây",
+      "co em day"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hạnh Phúc Bỏ Rơi Em",
+    "answers": [
+      "hạnh phúc bỏ rơi e",
+      "hanh phuc bo roi e",
+      "hạnh phúc bỏ rơi em",
+      "hanh phuc bo roi em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cứ thở đi",
+    "answers": [
+      "cứ thở đi",
+      "cu tho di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Xin má rước dâu",
+    "answers": [
+      "xin má rước dâu",
+      "xin ma ruoc dau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh nhà ở đâu thế",
+    "answers": [
+      "a nhà ở đâu thế",
+      "a nha o dau the",
+      "anh nhà ở đâu thế",
+      "anh nha o dau the"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bông hoa đẹp nhất",
+    "answers": [
+      "bông hoa đẹp nhất",
+      "bong hoa dep nhat"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hoa hải đường",
+    "answers": [
+      "hoa hải đường",
+      "hoa hai duong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em cần một người quan tâm",
+    "answers": [
+      "e cần một người quan tâm",
+      "e can mot nguoi quan tam",
+      "e cần 1 người quan tâm",
+      "e can 1 nguoi quan tam",
+      "em cần một người quan tâm",
+      "em can mot nguoi quan tam",
+      "em cần 1 người quan tâm",
+      "em can 1 nguoi quan tam"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cứ thế rời xa",
+    "answers": [
+      "cứ thế rời xa",
+      "cu the roi xa"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ex’ Hate Me",
+    "answers": [
+      "ex’ hate me"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu từ đâu mà ra",
+    "answers": [
+      "yêu từ đâu mà ra",
+      "yeu tu dau ma ra"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em không sai chúng ta sai",
+    "answers": [
+      "e ko sai chúng ta sai",
+      "e ko sai chung ta sai",
+      "e k sai chúng ta sai",
+      "e k sai chung ta sai",
+      "e không sai chúng ta sai",
+      "e khong sai chung ta sai",
+      "em ko sai chúng ta sai",
+      "em ko sai chung ta sai",
+      "em k sai chúng ta sai",
+      "em k sai chung ta sai",
+      "em không sai chúng ta sai",
+      "em khong sai chung ta sai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Không thể cùng nhau suốt kiếp",
+    "answers": [
+      "ko thể cùng nhau suốt kiếp",
+      "ko the cung nhau suot kiep",
+      "k thể cùng nhau suốt kiếp",
+      "k the cung nhau suot kiep",
+      "không thể cùng nhau suốt kiếp",
+      "khong the cung nhau suot kiep"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hơn cả yêu",
+    "answers": [
+      "hơn cả yêu",
+      "hon ca yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Về bên anh",
+    "answers": [
+      "về bên a",
+      "ve ben a",
+      "về bên anh",
+      "ve ben anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nước ngoài",
+    "answers": [
+      "nước ngoài",
+      "nuoc ngoai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ta còn thuộc về nhau",
+    "answers": [
+      "ta còn thuộc về nhau",
+      "ta con thuoc ve nhau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bước qua đời nhau",
+    "answers": [
+      "bước qua đời nhau",
+      "buoc qua doi nhau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Không sao mà, em đây rồi",
+    "answers": [
+      "ko sao mà, e đây rồi",
+      "ko sao ma, e day roi",
+      "ko sao mà, em đây rồi",
+      "ko sao ma, em day roi",
+      "k sao mà, e đây rồi",
+      "k sao ma, e day roi",
+      "k sao mà, em đây rồi",
+      "k sao ma, em day roi",
+      "không sao mà, e đây rồi",
+      "khong sao ma, e day roi",
+      "không sao mà, em đây rồi",
+      "khong sao ma, em day roi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thay tôi yêu cô ấy",
+    "answers": [
+      "thay tôi yêu cô ấy",
+      "thay toi yeu co ay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đau để trưởng thành",
+    "answers": [
+      "đau để trưởng thành",
+      "dau de truong thanh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Như những phút ban đầu",
+    "answers": [
+      "như những phút ban đầu",
+      "nhu nhung phut ban dau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Suýt nữa thì",
+    "answers": [
+      "suýt nữa thì",
+      "suyt nua thi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đố em biết anh đang nghĩ gì",
+    "answers": [
+      "đố e biết a đang nghĩ gì",
+      "do e biet a dang nghi gi",
+      "đố e biết anh đang nghĩ gì",
+      "do e biet anh dang nghi gi",
+      "đố e bt a đang nghĩ gì",
+      "do e bt a dang nghi gi",
+      "đố e bt anh đang nghĩ gì",
+      "do e bt anh dang nghi gi",
+      "đố em biết a đang nghĩ gì",
+      "do em biet a dang nghi gi",
+      "đố em biết anh đang nghĩ gì",
+      "do em biet anh dang nghi gi",
+      "đố em bt a đang nghĩ gì",
+      "do em bt a dang nghi gi",
+      "đố em bt anh đang nghĩ gì",
+      "do em bt anh dang nghi gi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thằng điên",
+    "answers": [
+      "thằng điên",
+      "thang dien"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chấp nhận",
+    "answers": [
+      "chấp nhận",
+      "chap nhan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh đang ở đâu đấy anh",
+    "answers": [
+      "a đang ở đâu đấy a",
+      "a dang o dau day a",
+      "a đang ở đâu đấy anh",
+      "a dang o dau day anh",
+      "anh đang ở đâu đấy a",
+      "anh dang o dau day a",
+      "anh đang ở đâu đấy anh",
+      "anh dang o dau day anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh là ai",
+    "answers": [
+      "a là ai",
+      "a la ai",
+      "anh là ai",
+      "anh la ai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu em dại khờ",
+    "answers": [
+      "yêu e dại khờ",
+      "yeu e dai kho",
+      "yêu em dại khờ",
+      "yeu em dai kho"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đừng yêu nữa, em mệt rồi",
+    "answers": [
+      "đừng yêu nữa, e mệt rồi",
+      "dung yeu nua, e met roi",
+      "đừng yêu nữa, em mệt rồi",
+      "dung yeu nua, em met roi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đen đá không đường",
+    "answers": [
+      "đen đá ko đường",
+      "den da ko duong",
+      "đen đá k đường",
+      "den da k duong",
+      "đen đá không đường",
+      "den da khong duong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sao em vô tình",
+    "answers": [
+      "sao e vô tình",
+      "sao e vo tinh",
+      "sao em vô tình",
+      "sao em vo tinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lưu số em đi",
+    "answers": [
+      "lưu số e đi",
+      "luu so e di",
+      "lưu số em đi",
+      "luu so em di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Gieo quẻ",
+    "answers": [
+      "gieo quẻ",
+      "gieo que"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Muộn màng là từ lúc",
+    "answers": [
+      "muộn màng là từ lúc",
+      "muon mang la tu luc"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tội lỗi",
+    "answers": [
+      "tội lỗi",
+      "toi loi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Để mị nói cho mà nghe",
+    "answers": [
+      "để mị nói cho mà nghe",
+      "de mi noi cho ma nghe"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đừng hỏi em",
+    "answers": [
+      "đừng hỏi e",
+      "dung hoi e",
+      "đừng hỏi em",
+      "dung hoi em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Người hãy quên em đi",
+    "answers": [
+      "người hãy quên e đi",
+      "nguoi hay quen e di",
+      "người hãy quên em đi",
+      "nguoi hay quen em di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu một người vô tâm",
+    "answers": [
+      "yêu một người vô tâm",
+      "yeu mot nguoi vo tam",
+      "yêu 1 người vô tâm",
+      "yeu 1 nguoi vo tam"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chờ người nơi ấy",
+    "answers": [
+      "chờ người nơi ấy",
+      "cho nguoi noi ay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ai khóc nỗi đau này",
+    "answers": [
+      "ai khóc nỗi đau này",
+      "ai khoc noi dau nay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đoạn đường vắng",
+    "answers": [
+      "đoạn đường vắng",
+      "doan duong vang"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hôm nay tôi buồn",
+    "answers": [
+      "hôm nay tôi buồn",
+      "hom nay toi buon"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Duyên phận",
+    "answers": [
+      "duyên phận",
+      "duyen phan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nói thương nhau thì đừng làm trái tim em đau",
+    "answers": [
+      "nói thương nhau thì đừng làm trái tim e đau",
+      "noi thuong nhau thi dung lam trai tim e dau",
+      "nói thương nhau thì đừng làm trái tim em đau",
+      "noi thuong nhau thi dung lam trai tim em dau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cớ sao giờ lại chia xa",
+    "answers": [
+      "cớ sao giờ lại chia xa",
+      "co sao gio lai chia xa"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Một cú lừa",
+    "answers": [
+      "một cú lừa",
+      "mot cu lua",
+      "1 cú lừa",
+      "1 cu lua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ngốc",
+    "answers": [
+      "ngốc",
+      "ngoc"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Rời bỏ",
+    "answers": [
+      "rời bỏ",
+      "roi bo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nụ hồng mong manh",
+    "answers": [
+      "nụ hồng mong manh",
+      "nu hong mong manh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bùa yêu",
+    "answers": [
+      "bùa yêu",
+      "bua yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đâu chỉ riêng em",
+    "answers": [
+      "đâu chỉ riêng e",
+      "dau chi rieng e",
+      "đâu chỉ riêng em",
+      "dau chi rieng em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em mới là người yêu anh",
+    "answers": [
+      "e mới là người yêu a",
+      "e moi la nguoi yeu a",
+      "e mới là người yêu anh",
+      "e moi la nguoi yeu anh",
+      "em mới là người yêu a",
+      "em moi la nguoi yeu a",
+      "em mới là người yêu anh",
+      "em moi la nguoi yeu anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tâm sự với người lạ",
+    "answers": [
+      "tâm sự với người lạ",
+      "tam su voi nguoi la"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Gửi anh xa nhớ",
+    "answers": [
+      "gửi a xa nhớ",
+      "gui a xa nho",
+      "gửi anh xa nhớ",
+      "gui anh xa nho"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cô gái Trung Hoa",
+    "answers": [
+      "cô gái trung hoa",
+      "co gai trung hoa"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bao giờ lấy chồng",
+    "answers": [
+      "bao giờ lấy chồng",
+      "bao gio lay chong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Một Bước Yêu Vạn Dặm Đau",
+    "answers": [
+      "một bước yêu vạn dặm đau",
+      "mot buoc yeu van dam dau",
+      "1 bước yêu vạn dặm đau",
+      "1 buoc yeu van dam dau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Màu Nước Mắt",
+    "answers": [
+      "màu nước mắt",
+      "mau nuoc mat"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mình Chia Tay Đi",
+    "answers": [
+      "mình chia tay đi",
+      "minh chia tay di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Kết Thúc Lâu Rồi",
+    "answers": [
+      "kết thúc lâu rồi",
+      "ket thuc lau roi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hỏi Thăm Nhau",
+    "answers": [
+      "hỏi thăm nhau",
+      "hoi tham nhau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu Là Tha Thu",
+    "answers": [
+      "yêu là tha thu",
+      "yeu la tha thu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sau Tất Cả",
+    "answers": [
+      "sau tất cả",
+      "sau tat ca"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chiều Hôm Ấy",
+    "answers": [
+      "chiều hôm ấy",
+      "chieu hom ay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Phía Sau Một Cô Gái",
+    "answers": [
+      "phía sau một cô gái",
+      "phia sau mot co gai",
+      "phía sau 1 cô gái",
+      "phia sau 1 co gai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Xin Đừng Lặng Im",
+    "answers": [
+      "xin đừng lặng im",
+      "xin dung lang im"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chạm Khẽ Tim Anh Một Chút Thôi",
+    "answers": [
+      "chạm khẽ tim a một chút thôi",
+      "cham khe tim a mot chut thoi",
+      "chạm khẽ tim a 1 chút thôi",
+      "cham khe tim a 1 chut thoi",
+      "chạm khẽ tim anh một chút thôi",
+      "cham khe tim anh mot chut thoi",
+      "chạm khẽ tim anh 1 chút thôi",
+      "cham khe tim anh 1 chut thoi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vợ Người Ta",
+    "answers": [
+      "vợ người ta",
+      "vo nguoi ta"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ghen",
+    "answers": [
+      "ghen"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thất Tình",
+    "answers": [
+      "thất tình",
+      "that tinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bạc Phận",
+    "answers": [
+      "bạc phận",
+      "bac phan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sóng gió",
+    "answers": [
+      "sóng gió",
+      "song gio"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nắng Ấm Xa Dần",
+    "answers": [
+      "nắng ấm xa dần",
+      "nang am xa dan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bống Bống Bang Bang",
+    "answers": [
+      "bống bống bang bang",
+      "bong bong bang bang"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chim trắng mồ côi",
+    "answers": [
+      "chim trắng mồ côi",
+      "chim trang mo coi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sầu tím thiệp hồng",
+    "answers": [
+      "sầu tím thiệp hồng",
+      "sau tim thiep hong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vầng trăng khóc",
+    "answers": [
+      "vầng trăng khóc",
+      "vang trang khoc"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bánh Mì Không",
+    "answers": [
+      "bánh mì ko",
+      "banh mi ko",
+      "bánh mì k",
+      "banh mi k",
+      "bánh mì không",
+      "banh mi khong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bốn Chữ Lắm",
+    "answers": [
+      "bốn chữ lắm",
+      "bon chu lam",
+      "4 chữ lắm",
+      "4 chu lam"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cưới Nhau Đi",
+    "answers": [
+      "cưới nhau đi",
+      "cuoi nhau di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mặt Trời Của Em",
+    "answers": [
+      "mặt trời của e",
+      "mat troi cua e",
+      "mặt trời của em",
+      "mat troi cua em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vì Yêu Cứ Đâm Đầu",
+    "answers": [
+      "vì yêu cứ đâm đầu",
+      "vi yeu cu dam dau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Xe Đạp",
+    "answers": [
+      "xe đạp",
+      "xe dap"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ngôi Nhà Hoa Hồng",
+    "answers": [
+      "ngôi nhà hoa hồng",
+      "ngoi nha hoa hong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ngày Cưới",
+    "answers": [
+      "ngày cưới",
+      "ngay cuoi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sao Anh Nỡ Đành Quên",
+    "answers": [
+      "sao a nỡ đành quên",
+      "sao a no danh quen",
+      "sao anh nỡ đành quên",
+      "sao anh no danh quen"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lâu Đài Tình Ái",
+    "answers": [
+      "lâu đài tình ái",
+      "lau dai tinh ai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Gõ Cửa Trái Tim",
+    "answers": [
+      "gõ cửa trái tim",
+      "go cua trai tim"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cỏ Úa",
+    "answers": [
+      "cỏ úa",
+      "co ua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cơn Mưa Tình Yêu",
+    "answers": [
+      "cơn mưa tình yêu",
+      "con mua tinh yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mỗi Người Một Nơi",
+    "answers": [
+      "mỗi người một nơi",
+      "moi nguoi mot noi",
+      "mỗi người 1 nơi",
+      "moi nguoi 1 noi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cho Em",
+    "answers": [
+      "cho e",
+      "cho em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Trái Tim Không Ngủ Yên",
+    "answers": [
+      "trái tim ko ngủ yên",
+      "trai tim ko ngu yen",
+      "trái tim k ngủ yên",
+      "trai tim k ngu yen",
+      "trái tim không ngủ yên",
+      "trai tim khong ngu yen"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bật Tình Yêu Lên",
+    "answers": [
+      "bật tình yêu lên",
+      "bat tinh yeu len"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Duyên Phận",
+    "answers": [
+      "duyên phận",
+      "duyen phan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vùng Lá Me Bay",
+    "answers": [
+      "vùng lá me bay",
+      "vung la me bay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Là Tất Cả",
+    "answers": [
+      "e là tất cả",
+      "e la tat ca",
+      "em là tất cả",
+      "em la tat ca"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hai Lối Mộng",
+    "answers": [
+      "hai lối mộng",
+      "hai loi mong",
+      "2 lối mộng",
+      "2 loi mong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hai Chuyến Tàu Đêm",
+    "answers": [
+      "hai chuyến tàu đêm",
+      "hai chuyen tau dem",
+      "2 chuyến tàu đêm",
+      "2 chuyen tau dem"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chuyến Tàu Hoàng Hôn",
+    "answers": [
+      "chuyến tàu hoàng hôn",
+      "chuyen tau hoang hon"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cô Hàng Xóm",
+    "answers": [
+      "cô hàng xóm",
+      "co hang xom"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lại Nhớ Người Yêu",
+    "answers": [
+      "lại nhớ người yêu",
+      "lai nho nguoi yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Liên Khúc Thành Phố Buồn",
+    "answers": [
+      "liên khúc thành phố buồn",
+      "lien khuc thanh pho buon"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mưa Rừng",
+    "answers": [
+      "mưa rừng",
+      "mua rung"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đắp Mộ Cuộc Tình",
+    "answers": [
+      "đắp mộ cuộc tình",
+      "dap mo cuoc tinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chuyện Tình Không Dĩ Vãng",
+    "answers": [
+      "chuyện tình ko dĩ vãng",
+      "chuyen tinh ko di vang",
+      "chuyện tình k dĩ vãng",
+      "chuyen tinh k di vang",
+      "chuyện tình không dĩ vãng",
+      "chuyen tinh khong di vang"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ai Khổ Vì Ai",
+    "answers": [
+      "ai khổ vì ai",
+      "ai kho vi ai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình Lỡ",
+    "answers": [
+      "tình lỡ",
+      "tinh lo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Dấu Chân Kỷ Niệm",
+    "answers": [
+      "dấu chân kỷ niệm",
+      "dau chan ky niem"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sầu Lẻ Bóng",
+    "answers": [
+      "sầu lẻ bóng",
+      "sau le bong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sao Chưa Thấy Hồi Âm",
+    "answers": [
+      "sao chưa thấy hồi âm",
+      "sao chua thay hoi am"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chiều Cuối Tuần",
+    "answers": [
+      "chiều cuối tuần",
+      "chieu cuoi tuan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Về Đâu Mái Tóc Người Thương",
+    "answers": [
+      "về đâu mái tóc người thương",
+      "ve dau mai toc nguoi thuong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ai Đưa Em Về",
+    "answers": [
+      "ai đưa e về",
+      "ai dua e ve",
+      "ai đưa em về",
+      "ai dua em ve"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đồi Thông Hai Mộ",
+    "answers": [
+      "đồi thông hai mộ",
+      "doi thong hai mo",
+      "đồi thông 2 mộ",
+      "doi thong 2 mo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chuyện Ba Mùa Mưa",
+    "answers": [
+      "chuyện ba mùa mưa",
+      "chuyen ba mua mua",
+      "chuyện 3 mùa mưa",
+      "chuyen 3 mua mua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mất Nhau Rồi",
+    "answers": [
+      "mất nhau rồi",
+      "mat nhau roi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chuyện Hẹn Hò",
+    "answers": [
+      "chuyện hẹn hò",
+      "chuyen hen ho"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Không Bao Giờ Quên Anh",
+    "answers": [
+      "ko bao giờ quên a",
+      "ko bao gio quen a",
+      "ko bao giờ quên anh",
+      "ko bao gio quen anh",
+      "k bao giờ quên a",
+      "k bao gio quen a",
+      "k bao giờ quên anh",
+      "k bao gio quen anh",
+      "không bao giờ quên a",
+      "khong bao gio quen a",
+      "không bao giờ quên anh",
+      "khong bao gio quen anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Dạ Khúc Cho Tình Nhân",
+    "answers": [
+      "dạ khúc cho tình nhân",
+      "da khuc cho tinh nhan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nỗi Buồn Hoa Phượng",
+    "answers": [
+      "nỗi buồn hoa phượng",
+      "noi buon hoa phuong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nhớ Nhau Hoài",
+    "answers": [
+      "nhớ nhau hoài",
+      "nho nhau hoai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chúng ta của tương lai",
+    "answers": [
+      "chúng ta của tương lai",
+      "chung ta cua tuong lai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chúng ta của hiện tại",
+    "answers": [
+      "chúng ta của hiện tại",
+      "chung ta cua hien tai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cùng Anh",
+    "answers": [
+      "cùng a",
+      "cung a",
+      "cùng anh",
+      "cung anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Như lời đồn",
+    "answers": [
+      "như lời đồn",
+      "nhu loi don"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Waiting for you",
+    "answers": [
+      "waiting for you"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hãy trao cho anh",
+    "answers": [
+      "hãy trao cho a",
+      "hay trao cho a",
+      "hãy trao cho anh",
+      "hay trao cho anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đóa hoa hồng",
+    "answers": [
+      "đóa hoa hồng",
+      "doa hoa hong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vũ điệu cồng chiêng",
+    "answers": [
+      "vũ điệu cồng chiêng",
+      "vu dieu cong chieng"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bên trên tầng lầu",
+    "answers": [
+      "bên trên tầng lầu",
+      "ben tren tang lau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh Ơi Ở Lại",
+    "answers": [
+      "a ơi ở lại",
+      "a oi o lai",
+      "anh ơi ở lại",
+      "anh oi o lai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Gặp Nhưng Không Ở Lại",
+    "answers": [
+      "gặp nhưng ko ở lại",
+      "gap nhung ko o lai",
+      "gặp nhưng k ở lại",
+      "gap nhung k o lai",
+      "gặp nhưng không ở lại",
+      "gap nhung khong o lai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Có tất cả nhưng thiếu anh",
+    "answers": [
+      "có tất cả nhưng thiếu a",
+      "co tat ca nhung thieu a",
+      "có tất cả nhưng thiếu anh",
+      "co tat ca nhung thieu anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cắt Đôi Nỗi Sầu",
+    "answers": [
+      "cắt đôi nỗi sầu",
+      "cat doi noi sau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thiệp hồng",
+    "answers": [
+      "thiệp hồng",
+      "thiep hong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Một Cú Lừa",
+    "answers": [
+      "một cú lừa",
+      "mot cu lua",
+      "1 cú lừa",
+      "1 cu lua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cung Đàn Vỡ Đôi",
+    "answers": [
+      "cung đàn vỡ đôi",
+      "cung dan vo doi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "em bỏ hút thuốc chưa",
+    "answers": [
+      "e bỏ hút thuốc chưa",
+      "e bo hut thuoc chua",
+      "em bỏ hút thuốc chưa",
+      "em bo hut thuoc chua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Muốn Nói Với Em",
+    "answers": [
+      "muốn nói với e",
+      "muon noi voi e",
+      "muốn nói với em",
+      "muon noi voi em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nếu Có Một Ngày",
+    "answers": [
+      "nếu có một ngày",
+      "neu co mot ngay",
+      "nếu có 1 ngày",
+      "neu co 1 ngay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đau Vậy Đủ Rồi",
+    "answers": [
+      "đau vậy đủ rồi",
+      "dau vay du roi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sẽ Có Một Ngày",
+    "answers": [
+      "sẽ có một ngày",
+      "se co mot ngay",
+      "sẽ có 1 ngày",
+      "se co 1 ngay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh Cần Thời Gian Để Trái Tim Mau Lành Lại",
+    "answers": [
+      "a cần thời gian để trái tim mau lành lại",
+      "a can thoi gian de trai tim mau lanh lai",
+      "anh cần thời gian để trái tim mau lành lại",
+      "anh can thoi gian de trai tim mau lanh lai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ăn Sáng Nha",
+    "answers": [
+      "ăn sáng nha",
+      "an sang nha"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Dừng Thương",
+    "answers": [
+      "dừng thương",
+      "dung thuong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Có Duyên Không Nợ",
+    "answers": [
+      "có duyên ko nợ",
+      "co duyen ko no",
+      "có duyên k nợ",
+      "co duyen k no",
+      "có duyên không nợ",
+      "co duyen khong no"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bức Tranh Tiền Kiếp",
+    "answers": [
+      "bức tranh tiền kiếp",
+      "buc tranh tien kiep"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu Từ Đâu Mà Ra",
+    "answers": [
+      "yêu từ đâu mà ra",
+      "yeu tu dau ma ra"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sao Em Nỡ Vậy",
+    "answers": [
+      "sao e nỡ vậy",
+      "sao e no vay",
+      "sao em nỡ vậy",
+      "sao em no vay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tomorrow",
+    "answers": [
+      "tomorrow"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vẫn Nhớ",
+    "answers": [
+      "vẫn nhớ",
+      "van nho"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Biết Em Lại Vô Tình",
+    "answers": [
+      "biết e lại vô tình",
+      "biet e lai vo tinh",
+      "biết em lại vô tình",
+      "biet em lai vo tinh",
+      "bt e lại vô tình",
+      "bt e lai vo tinh",
+      "bt em lại vô tình",
+      "bt em lai vo tinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mình Dừng Lại Đi",
+    "answers": [
+      "mình dừng lại đi",
+      "minh dung lai di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh Nghĩ Em Tiếc Anh Sao",
+    "answers": [
+      "a nghĩ e tiếc a sao",
+      "a nghi e tiec a sao",
+      "a nghĩ e tiếc anh sao",
+      "a nghi e tiec anh sao",
+      "a nghĩ em tiếc a sao",
+      "a nghi em tiec a sao",
+      "a nghĩ em tiếc anh sao",
+      "a nghi em tiec anh sao",
+      "anh nghĩ e tiếc a sao",
+      "anh nghi e tiec a sao",
+      "anh nghĩ e tiếc anh sao",
+      "anh nghi e tiec anh sao",
+      "anh nghĩ em tiếc a sao",
+      "anh nghi em tiec a sao",
+      "anh nghĩ em tiếc anh sao",
+      "anh nghi em tiec anh sao"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Những Ngày Thật Khác",
+    "answers": [
+      "những ngày thật khác",
+      "nhung ngay that khac"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tương Tư",
+    "answers": [
+      "tương tư",
+      "tuong tu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đi Qua Thương Nhớ",
+    "answers": [
+      "đi qua thương nhớ",
+      "di qua thuong nho"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thà Rằng Như Thế",
+    "answers": [
+      "thà rằng như thế",
+      "tha rang nhu the"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình Yêu Tôi Hát",
+    "answers": [
+      "tình yêu tôi hát",
+      "tinh yeu toi hat"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bỗng Dưng Muốn Khóc",
+    "answers": [
+      "bỗng dưng muốn khóc",
+      "bong dung muon khoc"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đã Khác Xưa",
+    "answers": [
+      "đã khác xưa",
+      "da khac xua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "SAY",
+    "answers": [
+      "say"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hoa Tàn",
+    "answers": [
+      "hoa tàn",
+      "hoa tan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Có Một Ngày Buồn Như Thế",
+    "answers": [
+      "có một ngày buồn như thế",
+      "co mot ngay buon nhu the",
+      "có 1 ngày buồn như thế",
+      "co 1 ngay buon nhu the"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thanh Xuân Còn Lại Bao Nhiêu",
+    "answers": [
+      "thanh xuân còn lại bao nhiêu",
+      "thanh xuan con lai bao nhieu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Buồn Làm Chi Em Ơi",
+    "answers": [
+      "buồn làm chi e ơi",
+      "buon lam chi e oi",
+      "buồn làm chi em ơi",
+      "buon lam chi em oi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình Yêu Lung Linh",
+    "answers": [
+      "tình yêu lung linh",
+      "tinh yeu lung linh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Khi Nỗi Đau Dừng Lại",
+    "answers": [
+      "khi nỗi đau dừng lại",
+      "khi noi dau dung lai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mr Bean",
+    "answers": [
+      "mr bean"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Có Em Đời Bỗng Vui",
+    "answers": [
+      "có e đời bỗng vui",
+      "co e doi bong vui",
+      "có em đời bỗng vui",
+      "co em doi bong vui"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình Anh",
+    "answers": [
+      "tình a",
+      "tinh a",
+      "tình anh",
+      "tinh anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Khi Con Là Mẹ",
+    "answers": [
+      "khi con là mẹ",
+      "khi con la me"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nắm Bàn Tay Say Cả Đời",
+    "answers": [
+      "nắm bàn tay say cả đời",
+      "nam ban tay say ca doi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Như Ngày Hôm Qua",
+    "answers": [
+      "như ngày hôm qua",
+      "nhu ngay hom qua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lắm Mối Tối Ngồi Không",
+    "answers": [
+      "lắm mối tối ngồi ko",
+      "lam moi toi ngoi ko",
+      "lắm mối tối ngồi k",
+      "lam moi toi ngoi k",
+      "lắm mối tối ngồi không",
+      "lam moi toi ngoi khong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình Thôi Xót Xa",
+    "answers": [
+      "tình thôi xót xa",
+      "tinh thoi xot xa"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thôn Nữ Hóa Thiên Nga",
+    "answers": [
+      "thôn nữ hóa thiên nga",
+      "thon nu hoa thien nga"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cứ Ngỡ",
+    "answers": [
+      "cứ ngỡ",
+      "cu ngo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Phai Dấu Cuộc Tình",
+    "answers": [
+      "phai dấu cuộc tình",
+      "phai dau cuoc tinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tâm Trí Yêu Em",
+    "answers": [
+      "tâm trí yêu e",
+      "tam tri yeu e",
+      "tâm trí yêu em",
+      "tam tri yeu em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Giọt Sương Nắng",
+    "answers": [
+      "giọt sương nắng",
+      "giot suong nang"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đau Đầu",
+    "answers": [
+      "đau đầu",
+      "dau dau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Người Phu Kéo Mo Cau",
+    "answers": [
+      "người phu kéo mo cau",
+      "nguoi phu keo mo cau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nhớ Người Yêu",
+    "answers": [
+      "nhớ người yêu",
+      "nho nguoi yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nghèo",
+    "answers": [
+      "nghèo",
+      "ngheo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sầu Tím Thiệp Hồng",
+    "answers": [
+      "sầu tím thiệp hồng",
+      "sau tim thiep hong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Xin Làm Người Xa Lạ",
+    "answers": [
+      "xin làm người xa lạ",
+      "xin lam nguoi xa la"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bông Điên Điển",
+    "answers": [
+      "bông điên điển",
+      "bong dien dien"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đừng Nói Xa Nhau",
+    "answers": [
+      "đừng nói xa nhau",
+      "dung noi xa nhau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hoa Tím Đợi Chờ",
+    "answers": [
+      "hoa tím đợi chờ",
+      "hoa tim doi cho"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tội Tình",
+    "answers": [
+      "tội tình",
+      "toi tinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Áo Mới Cà Mau",
+    "answers": [
+      "áo mới cà mau",
+      "ao moi ca mau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hoa Tím Bằng Lăng",
+    "answers": [
+      "hoa tím bằng lăng",
+      "hoa tim bang lang"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Trở Về Cát Bụi",
+    "answers": [
+      "trở về cát bụi",
+      "tro ve cat bui"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Dù anh nghèo",
+    "answers": [
+      "dù a nghèo",
+      "du a ngheo",
+      "dù anh nghèo",
+      "du anh ngheo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đường Tình Đôi Ngã",
+    "answers": [
+      "đường tình đôi ngã",
+      "duong tinh doi nga"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Liên Khúc Nghèo",
+    "answers": [
+      "liên khúc nghèo",
+      "lien khuc ngheo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Giọt Lệ Đài Trang",
+    "answers": [
+      "giọt lệ đài trang",
+      "giot le dai trang"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mưa Đêm Tỉnh Nhỏ",
+    "answers": [
+      "mưa đêm tỉnh nhỏ",
+      "mua dem tinh nho"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mùa Xuân Đó Có Em",
+    "answers": [
+      "mùa xuân đó có e",
+      "mua xuan do co e",
+      "mùa xuân đó có em",
+      "mua xuan do co em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Liên Khúc : Nghèo",
+    "answers": [
+      "liên khúc : nghèo",
+      "lien khuc : ngheo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Người Tình Không Đến",
+    "answers": [
+      "người tình ko đến",
+      "nguoi tinh ko den",
+      "người tình k đến",
+      "nguoi tinh k den",
+      "người tình không đến",
+      "nguoi tinh khong den"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chuyện Tình Lan Và Điệp",
+    "answers": [
+      "chuyện tình lan và điệp",
+      "chuyen tinh lan va diep"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hai Đứa Giận Nhau",
+    "answers": [
+      "hai đứa giận nhau",
+      "hai dua gian nhau",
+      "2 đứa giận nhau",
+      "2 dua gian nhau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hỏi Vợ Ngoại Thành",
+    "answers": [
+      "hỏi vợ ngoại thành",
+      "hoi vo ngoai thanh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ngày Xưa Anh Nói",
+    "answers": [
+      "ngày xưa a nói",
+      "ngay xua a noi",
+      "ngày xưa anh nói",
+      "ngay xua anh noi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đêm Cuối",
+    "answers": [
+      "đêm cuối",
+      "dem cuoi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đôi Mắt Người Xưa",
+    "answers": [
+      "đôi mắt người xưa",
+      "doi mat nguoi xua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chiều Nước Lũ",
+    "answers": [
+      "chiều nước lũ",
+      "chieu nuoc lu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Còn Thương Rau Đắng Mọc Sau Hè",
+    "answers": [
+      "còn thương rau đắng mọc sau hè",
+      "con thuong rau dang moc sau he"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đừng Nhắc Chuyện Lòng",
+    "answers": [
+      "đừng nhắc chuyện lòng",
+      "dung nhac chuyen long"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tâm Sự Với Anh",
+    "answers": [
+      "tâm sự với a",
+      "tam su voi a",
+      "tâm sự với anh",
+      "tam su voi anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cung Đàn Có Em",
+    "answers": [
+      "cung đàn có e",
+      "cung dan co e",
+      "cung đàn có em",
+      "cung dan co em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Được Tin Em Lấy Chồng",
+    "answers": [
+      "được tin e lấy chồng",
+      "duoc tin e lay chong",
+      "được tin em lấy chồng",
+      "duoc tin em lay chong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nhẫn Cỏ Cho Em",
+    "answers": [
+      "nhẫn cỏ cho e",
+      "nhan co cho e",
+      "nhẫn cỏ cho em",
+      "nhan co cho em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chuyện Tình Cô Lái Đò Bến Hạ",
+    "answers": [
+      "chuyện tình cô lái đò bến hạ",
+      "chuyen tinh co lai do ben ha"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình Bơ Vơ",
+    "answers": [
+      "tình bơ vơ",
+      "tinh bo vo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đám Cưới Trên Đường Quê",
+    "answers": [
+      "đám cưới trên đường quê",
+      "dam cuoi tren duong que"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tím Cả Rừng Chiều",
+    "answers": [
+      "tím cả rừng chiều",
+      "tim ca rung chieu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đập Vỡ Cây Đàn",
+    "answers": [
+      "đập vỡ cây đàn",
+      "dap vo cay dan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Về Quê Ngoại",
+    "answers": [
+      "về quê ngoại",
+      "ve que ngoai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình Cha",
+    "answers": [
+      "tình cha",
+      "tinh cha"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thương Chị",
+    "answers": [
+      "thương chị",
+      "thuong chi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu Chị Hai Lúa",
+    "answers": [
+      "yêu chị hai lúa",
+      "yeu chi hai lua",
+      "yêu chị 2 lúa",
+      "yeu chi 2 lua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cánh Thiệp Hồng",
+    "answers": [
+      "cánh thiệp hồng",
+      "canh thiep hong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hạ Buồn",
+    "answers": [
+      "hạ buồn",
+      "ha buon"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Hãy Về Đi",
+    "answers": [
+      "e hãy về đi",
+      "e hay ve di",
+      "em hãy về đi",
+      "em hay ve di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Quê Em Mùa Nước Lũ",
+    "answers": [
+      "quê e mùa nước lũ",
+      "que e mua nuoc lu",
+      "quê em mùa nước lũ",
+      "que em mua nuoc lu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đồi Tím Hoa Sim",
+    "answers": [
+      "đồi tím hoa sim",
+      "doi tim hoa sim"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Những Đóm Mắt Hỏa Châu",
+    "answers": [
+      "những đóm mắt hỏa châu",
+      "nhung dom mat hoa chau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Không Giờ Rồi",
+    "answers": [
+      "ko giờ rồi",
+      "ko gio roi",
+      "k giờ rồi",
+      "k gio roi",
+      "không giờ rồi",
+      "khong gio roi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nó Và Tôi",
+    "answers": [
+      "nó và tôi",
+      "no va toi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bông Cỏ May",
+    "answers": [
+      "bông cỏ may",
+      "bong co may"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đêm Buồn Tỉnh Lẻ",
+    "answers": [
+      "đêm buồn tỉnh lẻ",
+      "dem buon tinh le"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Đi Trên Cỏ Non",
+    "answers": [
+      "e đi trên cỏ non",
+      "e di tren co non",
+      "em đi trên cỏ non",
+      "em di tren co non"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chiều Tàn",
+    "answers": [
+      "chiều tàn",
+      "chieu tan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chờ Anh Hát Lý Duyên Tình",
+    "answers": [
+      "chờ a hát lý duyên tình",
+      "cho a hat ly duyen tinh",
+      "chờ anh hát lý duyên tình",
+      "cho anh hat ly duyen tinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đọan Cuối Tình Yêu",
+    "answers": [
+      "đọan cuối tình yêu",
+      "doan cuoi tinh yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Gặp Nhau Làm Ngơ",
+    "answers": [
+      "gặp nhau làm ngơ",
+      "gap nhau lam ngo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Duyên Quê",
+    "answers": [
+      "duyên quê",
+      "duyen que"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bao Giờ Em Lấy Chồng",
+    "answers": [
+      "bao giờ e lấy chồng",
+      "bao gio e lay chong",
+      "bao giờ em lấy chồng",
+      "bao gio em lay chong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chuyến Đò Không Em",
+    "answers": [
+      "chuyến đò ko e",
+      "chuyen do ko e",
+      "chuyến đò ko em",
+      "chuyen do ko em",
+      "chuyến đò k e",
+      "chuyen do k e",
+      "chuyến đò k em",
+      "chuyen do k em",
+      "chuyến đò không e",
+      "chuyen do khong e",
+      "chuyến đò không em",
+      "chuyen do khong em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tủi Phận",
+    "answers": [
+      "tủi phận",
+      "tui phan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hồn Trinh Nữ",
+    "answers": [
+      "hồn trinh nữ",
+      "hon trinh nu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Giọt Mưa Thu",
+    "answers": [
+      "giọt mưa thu",
+      "giot mua thu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nhà Anh Nhà Em",
+    "answers": [
+      "nhà a nhà e",
+      "nha a nha e",
+      "nhà a nhà em",
+      "nha a nha em",
+      "nhà anh nhà e",
+      "nha anh nha e",
+      "nhà anh nhà em",
+      "nha anh nha em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Giọng Ca Dĩ Vãng",
+    "answers": [
+      "giọng ca dĩ vãng",
+      "giong ca di vang"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Những Ngày Xưa Thân Ái",
+    "answers": [
+      "những ngày xưa thân ái",
+      "nhung ngay xua than ai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vợ Tôi",
+    "answers": [
+      "vợ tôi",
+      "vo toi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Căn Nhà Màu Tím",
+    "answers": [
+      "căn nhà màu tím",
+      "can nha mau tim"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chuyện Tình La Lan",
+    "answers": [
+      "chuyện tình la lan",
+      "chuyen tinh la lan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chuyện Tình Hàn Mặc Tử",
+    "answers": [
+      "chuyện tình hàn mặc tử",
+      "chuyen tinh han mac tu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lan Và Điệp",
+    "answers": [
+      "lan và điệp",
+      "lan va diep"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cho Vừa Lòng Em",
+    "answers": [
+      "cho vừa lòng e",
+      "cho vua long e",
+      "cho vừa lòng em",
+      "cho vua long em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ga Chiều Phố Nhỏ",
+    "answers": [
+      "ga chiều phố nhỏ",
+      "ga chieu pho nho"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Người Tình Mùa Đông",
+    "answers": [
+      "người tình mùa đông",
+      "nguoi tinh mua dong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ra Giêng Anh Cưới Em",
+    "answers": [
+      "ra giêng a cưới e",
+      "ra gieng a cuoi e",
+      "ra giêng a cưới em",
+      "ra gieng a cuoi em",
+      "ra giêng anh cưới e",
+      "ra gieng anh cuoi e",
+      "ra giêng anh cưới em",
+      "ra gieng anh cuoi em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Gõ Cửa",
+    "answers": [
+      "gõ cửa",
+      "go cua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nối Dây Tơ Hồng",
+    "answers": [
+      "nối dây tơ hồng",
+      "noi day to hong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Có Bao Giờ",
+    "answers": [
+      "có bao giờ",
+      "co bao gio"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Câu Chuyện Đầu Năm",
+    "answers": [
+      "câu chuyện đầu năm",
+      "cau chuyen dau nam",
+      "câu chuyện đầu 5",
+      "cau chuyen dau 5"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tôi Sẽ Về",
+    "answers": [
+      "tôi sẽ về",
+      "toi se ve"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Phải Lòng Con Gái Bến Tre",
+    "answers": [
+      "phải lòng con gái bến tre",
+      "phai long con gai ben tre"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đời Là Thế Thôi",
+    "answers": [
+      "đời là thế thôi",
+      "doi la the thoi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Có Anh Ở Đây Rồi",
+    "answers": [
+      "có a ở đây rồi",
+      "co a o day roi",
+      "có anh ở đây rồi",
+      "co anh o day roi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Phía Sau Em",
+    "answers": [
+      "phía sau e",
+      "phia sau e",
+      "phía sau em",
+      "phia sau em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chỉ Bằng Cái Gật Đầu",
+    "answers": [
+      "chỉ bằng cái gật đầu",
+      "chi bang cai gat dau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cho Em Gần Anh Thêm Chút Nữa",
+    "answers": [
+      "cho e gần a thêm chút nữa",
+      "cho e gan a them chut nua",
+      "cho e gần anh thêm chút nữa",
+      "cho e gan anh them chut nua",
+      "cho em gần a thêm chút nữa",
+      "cho em gan a them chut nua",
+      "cho em gần anh thêm chút nữa",
+      "cho em gan anh them chut nua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đường Một Chiều",
+    "answers": [
+      "đường một chiều",
+      "duong mot chieu",
+      "đường 1 chiều",
+      "duong 1 chieu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lạ Lùng",
+    "answers": [
+      "lạ lùng",
+      "la lung"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Để Cho Em Khóc",
+    "answers": [
+      "để cho e khóc",
+      "de cho e khoc",
+      "để cho em khóc",
+      "de cho em khoc"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ngắm Hoa Lệ Rơi",
+    "answers": [
+      "ngắm hoa lệ rơi",
+      "ngam hoa le roi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Giả Vờ Thương Anh Được Không",
+    "answers": [
+      "giả vờ thương a được ko",
+      "gia vo thuong a duoc ko",
+      "giả vờ thương a được k",
+      "gia vo thuong a duoc k",
+      "giả vờ thương a được không",
+      "gia vo thuong a duoc khong",
+      "giả vờ thương anh được ko",
+      "gia vo thuong anh duoc ko",
+      "giả vờ thương anh được k",
+      "gia vo thuong anh duoc k",
+      "giả vờ thương anh được không",
+      "gia vo thuong anh duoc khong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đừng Ai Nhắc Về Anh Ấy",
+    "answers": [
+      "đừng ai nhắc về a ấy",
+      "dung ai nhac ve a ay",
+      "đừng ai nhắc về anh ấy",
+      "dung ai nhac ve anh ay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Như Gió Với Mây",
+    "answers": [
+      "như gió với mây",
+      "nhu gio voi may"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ừ Có Anh Đây",
+    "answers": [
+      "ừ có a đây",
+      "u co a day",
+      "ừ có anh đây",
+      "u co anh day"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Kém Duyên",
+    "answers": [
+      "kém duyên",
+      "kem duyen"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Buồn Của Anh",
+    "answers": [
+      "buồn của a",
+      "buon cua a",
+      "buồn của anh",
+      "buon cua anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đông Kiếm Em",
+    "answers": [
+      "đông kiếm e",
+      "dong kiem e",
+      "đông kiếm em",
+      "dong kiem em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mình Cưới Nhau Đi",
+    "answers": [
+      "mình cưới nhau đi",
+      "minh cuoi nhau di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hôm Nay Tôi Buồn",
+    "answers": [
+      "hôm nay tôi buồn",
+      "hom nay toi buon"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cuộc Sống Em Ổn Không",
+    "answers": [
+      "cuộc sống e ổn ko",
+      "cuoc song e on ko",
+      "cuộc sống e ổn k",
+      "cuoc song e on k",
+      "cuộc sống e ổn không",
+      "cuoc song e on khong",
+      "cuộc sống em ổn ko",
+      "cuoc song em on ko",
+      "cuộc sống em ổn k",
+      "cuoc song em on k",
+      "cuộc sống em ổn không",
+      "cuoc song em on khong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tâm Sự Tuổi ",
+    "answers": [
+      "tâm sự tuổi",
+      "tam su tuoi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Người Đổi Thay",
+    "answers": [
+      "người đổi thay",
+      "nguoi doi thay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vì Anh Thương Em",
+    "answers": [
+      "vì a thương e",
+      "vi a thuong e",
+      "vì a thương em",
+      "vi a thuong em",
+      "vì anh thương e",
+      "vi anh thuong e",
+      "vì anh thương em",
+      "vi anh thuong em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cô Ấy Đã Từng",
+    "answers": [
+      "cô ấy đã từng",
+      "co ay da tung"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chẳng Gì Đẹp Đẽ Trên Đời Mãi",
+    "answers": [
+      "chẳng gì đẹp đẽ trên đời mãi",
+      "chang gi dep de tren doi mai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Rồi Người Thương Cũng Hóa Người Dưng",
+    "answers": [
+      "rồi người thương cũng hóa người dưng",
+      "roi nguoi thuong cung hoa nguoi dung"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thay Thế",
+    "answers": [
+      "thay thế",
+      "thay the"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đừng Quên Tên Anh",
+    "answers": [
+      "đừng quên tên a",
+      "dung quen ten a",
+      "đừng quên tên anh",
+      "dung quen ten anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sao Em Nỡ",
+    "answers": [
+      "sao e nỡ",
+      "sao e no",
+      "sao em nỡ",
+      "sao em no"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Về Đây Em Lo",
+    "answers": [
+      "về đây e lo",
+      "ve day e lo",
+      "về đây em lo",
+      "ve day em lo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lỡ Thương Một Người",
+    "answers": [
+      "lỡ thương một người",
+      "lo thuong mot nguoi",
+      "lỡ thương 1 người",
+      "lo thuong 1 nguoi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Có Một Nơi Như Thế",
+    "answers": [
+      "có một nơi như thế",
+      "co mot noi nhu the",
+      "có 1 nơi như thế",
+      "co 1 noi nhu the"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Suýt Nữa Thì",
+    "answers": [
+      "suýt nữa thì",
+      "suyt nua thi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Buồn Không Em",
+    "answers": [
+      "buồn ko e",
+      "buon ko e",
+      "buồn ko em",
+      "buon ko em",
+      "buồn k e",
+      "buon k e",
+      "buồn k em",
+      "buon k em",
+      "buồn không e",
+      "buon khong e",
+      "buồn không em",
+      "buon khong em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tận Cùng Nỗi Nhớ",
+    "answers": [
+      "tận cùng nỗi nhớ",
+      "tan cung noi nho"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Gửi Anh Và Cô Ấy",
+    "answers": [
+      "gửi a và cô ấy",
+      "gui a va co ay",
+      "gửi anh và cô ấy",
+      "gui anh va co ay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thanh Xuân",
+    "answers": [
+      "thanh xuân",
+      "thanh xuan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chuyện Tình Tôi",
+    "answers": [
+      "chuyện tình tôi",
+      "chuyen tinh toi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đơn Côi Tình Tôi",
+    "answers": [
+      "đơn côi tình tôi",
+      "don coi tinh toi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Còn Yêu, Đâu Ai Rời Đi",
+    "answers": [
+      "còn yêu, đâu ai rời đi",
+      "con yeu, dau ai roi di"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vô Tình",
+    "answers": [
+      "vô tình",
+      "vo tinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Càng Níu Giữ Càng Dễ Mất",
+    "answers": [
+      "càng níu giữ càng dễ mất",
+      "cang niu giu cang de mat"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Độc Thân Không Phải Là Ế",
+    "answers": [
+      "độc thân ko phải là ế",
+      "doc than ko phai la e",
+      "độc thân k phải là ế",
+      "doc than k phai la e",
+      "độc thân không phải là ế",
+      "doc than khong phai la e"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hongkong",
+    "answers": [
+      "hongkong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thằng Điên",
+    "answers": [
+      "thằng điên",
+      "thang dien"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu Đơn Phương",
+    "answers": [
+      "yêu đơn phương",
+      "yeu don phuong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đừng Nói Tôi Điên",
+    "answers": [
+      "đừng nói tôi điên",
+      "dung noi toi dien"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Còn Là Gì Của Nhau",
+    "answers": [
+      "còn là gì của nhau",
+      "con la gi cua nhau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Người Lạ Thoáng Qua",
+    "answers": [
+      "người lạ thoáng qua",
+      "nguoi la thoang qua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Không Thể",
+    "answers": [
+      "e ko thể",
+      "e ko the",
+      "e k thể",
+      "e k the",
+      "e không thể",
+      "e khong the",
+      "em ko thể",
+      "em ko the",
+      "em k thể",
+      "em k the",
+      "em không thể",
+      "em khong the"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chấp Nhận",
+    "answers": [
+      "chấp nhận",
+      "chap nhan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh Đang Ở Đâu Đấy Anh",
+    "answers": [
+      "a đang ở đâu đấy a",
+      "a dang o dau day a",
+      "a đang ở đâu đấy anh",
+      "a dang o dau day anh",
+      "anh đang ở đâu đấy a",
+      "anh dang o dau day a",
+      "anh đang ở đâu đấy anh",
+      "anh dang o dau day anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Mây",
+    "answers": [
+      "e mây",
+      "e may",
+      "em mây",
+      "em may"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Về",
+    "answers": [
+      "về",
+      "ve"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Con Trai Cưng",
+    "answers": [
+      "con trai cưng",
+      "con trai cung"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "H",
+    "answers": [
+      "h"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Vẫn Chưa Về",
+    "answers": [
+      "e vẫn chưa về",
+      "e van chua ve",
+      "em vẫn chưa về",
+      "em van chua ve"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nếu Ta Ngược Lối",
+    "answers": [
+      "nếu ta ngược lối",
+      "neu ta nguoc loi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ngưng Thả Yêu Thương",
+    "answers": [
+      "ngưng thả yêu thương",
+      "ngung tha yeu thuong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Sẽ Là Cô Dâu",
+    "answers": [
+      "e sẽ là cô dâu",
+      "e se la co dau",
+      "em sẽ là cô dâu",
+      "em se la co dau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Có Thể",
+    "answers": [
+      "e có thể",
+      "e co the",
+      "em có thể",
+      "em co the"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Không Phải Em Đúng Không?",
+    "answers": [
+      "ko phải e đúng không?",
+      "ko phai e dung khong?",
+      "ko phải em đúng không?",
+      "ko phai em dung khong?",
+      "k phải e đúng không?",
+      "k phai e dung khong?",
+      "k phải em đúng không?",
+      "k phai em dung khong?",
+      "không phải e đúng không?",
+      "khong phai e dung khong?",
+      "không phải em đúng không?",
+      "khong phai em dung khong?"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Chuyện Cũ Bỏ Qua",
+    "answers": [
+      "chuyện cũ bỏ qua",
+      "chuyen cu bo qua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tất Cả Tại Anh",
+    "answers": [
+      "tất cả tại a",
+      "tat ca tai a",
+      "tất cả tại anh",
+      "tat ca tai anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sẽ Hứa Đi Cùng Nhau",
+    "answers": [
+      "sẽ hứa đi cùng nhau",
+      "se hua di cung nhau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yêu Em Dại Khờ",
+    "answers": [
+      "yêu e dại khờ",
+      "yeu e dai kho",
+      "yêu em dại khờ",
+      "yeu em dai kho"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Không Phải Em Đúng Không",
+    "answers": [
+      "ko phải e đúng ko",
+      "ko phai e dung ko",
+      "ko phải e đúng k",
+      "ko phai e dung k",
+      "ko phải e đúng không",
+      "ko phai e dung khong",
+      "ko phải em đúng ko",
+      "ko phai em dung ko",
+      "ko phải em đúng k",
+      "ko phai em dung k",
+      "ko phải em đúng không",
+      "ko phai em dung khong",
+      "k phải e đúng ko",
+      "k phai e dung ko",
+      "k phải e đúng k",
+      "k phai e dung k",
+      "k phải e đúng không",
+      "k phai e dung khong",
+      "k phải em đúng ko",
+      "k phai em dung ko",
+      "k phải em đúng k",
+      "k phai em dung k",
+      "k phải em đúng không",
+      "k phai em dung khong",
+      "không phải e đúng ko",
+      "khong phai e dung ko",
+      "không phải e đúng k",
+      "khong phai e dung k",
+      "không phải e đúng không",
+      "khong phai e dung khong",
+      "không phải em đúng ko",
+      "khong phai em dung ko",
+      "không phải em đúng k",
+      "khong phai em dung k",
+      "không phải em đúng không",
+      "khong phai em dung khong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bông Hoa Chẳng Thuộc Về Ta",
+    "answers": [
+      "bông hoa chẳng thuộc về ta",
+      "bong hoa chang thuoc ve ta"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình Nhân Ơi",
+    "answers": [
+      "tình nhân ơi",
+      "tinh nhan oi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh Là Ai",
+    "answers": [
+      "a là ai",
+      "a la ai",
+      "anh là ai",
+      "anh la ai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nỗi Đau Mang Tên Anh",
+    "answers": [
+      "nỗi đau mang tên a",
+      "noi dau mang ten a",
+      "nỗi đau mang tên anh",
+      "noi dau mang ten anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thêm Bao Nhiêu Lâu",
+    "answers": [
+      "thêm bao nhiêu lâu",
+      "them bao nhieu lau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Quay Lưng Về Nhau",
+    "answers": [
+      "quay lưng về nhau",
+      "quay lung ve nhau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tết Đong Đầy",
+    "answers": [
+      "tết đong đầy",
+      "tet dong day"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tết Tung Bay",
+    "answers": [
+      "tết tung bay",
+      "tet tung bay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vừa Hận Vừa Yêu",
+    "answers": [
+      "vừa hận vừa yêu",
+      "vua han vua yeu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Anh Thôi Nhân Nhượng",
+    "answers": [
+      "a thôi nhân nhượng",
+      "a thoi nhan nhuong",
+      "anh thôi nhân nhượng",
+      "anh thoi nhan nhuong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cô Phòng",
+    "answers": [
+      "cô phòng",
+      "co phong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hứa Đợi Nhưng Chẳng Tới",
+    "answers": [
+      "hứa đợi nhưng chẳng tới",
+      "hua doi nhung chang toi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hoa Nở Bên Đường",
+    "answers": [
+      "hoa nở bên đường",
+      "hoa no ben duong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cẩm Tú Cầu",
+    "answers": [
+      "cẩm tú cầu",
+      "cam tu cau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thủy Triều",
+    "answers": [
+      "thủy triều",
+      "thuy trieu"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cạn Tình Như Thế",
+    "answers": [
+      "cạn tình như thế",
+      "can tinh nhu the"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tự Em Sai",
+    "answers": [
+      "tự e sai",
+      "tu e sai",
+      "tự em sai",
+      "tu em sai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ngày Mai Người Ta Lấy Chồng",
+    "answers": [
+      "ngày mai người ta lấy chồng",
+      "ngay mai nguoi ta lay chong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Là Tại Anh Sai",
+    "answers": [
+      "là tại a sai",
+      "la tai a sai",
+      "là tại anh sai",
+      "la tai anh sai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nên Chờ Hay Nên Quên",
+    "answers": [
+      "nên chờ hay nên quên",
+      "nen cho hay nen quen"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hôm Nay Anh Say",
+    "answers": [
+      "hôm nay a say",
+      "hom nay a say",
+      "hôm nay anh say",
+      "hom nay anh say"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nổi Gió Lên",
+    "answers": [
+      "nổi gió lên",
+      "noi gio len"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hôn Lễ Của Anh",
+    "answers": [
+      "hôn lễ của a",
+      "hon le cua a",
+      "hôn lễ của anh",
+      "hon le cua anh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thiên Lý Ơi",
+    "answers": [
+      "thiên lý ơi",
+      "thien ly oi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nhân Sinh Quán",
+    "answers": [
+      "nhân sinh quán",
+      "nhan sinh quan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đấng Nam Nhi",
+    "answers": [
+      "đấng nam nhi",
+      "dang nam nhi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nợ Nhau Một Lời",
+    "answers": [
+      "nợ nhau một lời",
+      "no nhau mot loi",
+      "nợ nhau 1 lời",
+      "no nhau 1 loi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ai Chung Tình Được Mãi",
+    "answers": [
+      "ai chung tình được mãi",
+      "ai chung tinh duoc mai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Phố Hoa Lệ",
+    "answers": [
+      "phố hoa lệ",
+      "pho hoa le"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tất Cả Hoặc Không Là Gì Cả",
+    "answers": [
+      "tất cả hoặc ko là gì cả",
+      "tat ca hoac ko la gi ca",
+      "tất cả hoặc k là gì cả",
+      "tat ca hoac k la gi ca",
+      "tất cả hoặc không là gì cả",
+      "tat ca hoac khong la gi ca"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hoa Cỏ Lau",
+    "answers": [
+      "hoa cỏ lau",
+      "hoa co lau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Người Tính Duyên Trời",
+    "answers": [
+      "người tính duyên trời",
+      "nguoi tinh duyen troi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Gió Mây Trời Trôi",
+    "answers": [
+      "gió mây trời trôi",
+      "gio may troi troi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mộng Hoa Sim",
+    "answers": [
+      "mộng hoa sim",
+      "mong hoa sim"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lướt Sóng Đạp Mây",
+    "answers": [
+      "lướt sóng đạp mây",
+      "luot song dap may"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vạn Sự Tùy Duyên",
+    "answers": [
+      "vạn sự tùy duyên",
+      "van su tuy duyen"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đổ Sông Đổ Biển",
+    "answers": [
+      "đổ sông đổ biển",
+      "do song do bien"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Họa Đi Phúc Sẽ Đến",
+    "answers": [
+      "họa đi phúc sẽ đến",
+      "hoa di phuc se den"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Có Lẽ Bên Nhau Là Sai",
+    "answers": [
+      "có lẽ bên nhau là sai",
+      "co le ben nhau la sai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Cưới Thôi Em",
+    "answers": [
+      "cưới thôi e",
+      "cuoi thoi e",
+      "cưới thôi em",
+      "cuoi thoi em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Nên Dừng Lại",
+    "answers": [
+      "e nên dừng lại",
+      "e nen dung lai",
+      "em nên dừng lại",
+      "em nen dung lai"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tội Nghiệp Lắm Em",
+    "answers": [
+      "tội nghiệp lắm e",
+      "toi nghiep lam e",
+      "tội nghiệp lắm em",
+      "toi nghiep lam em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Kiếp Hoa Tàn",
+    "answers": [
+      "kiếp hoa tàn",
+      "kiep hoa tan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình Ta Hai Ngã",
+    "answers": [
+      "tình ta hai ngã",
+      "tinh ta hai nga",
+      "tình ta 2 ngã",
+      "tinh ta 2 nga"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Có Một Người Vẫn Đợi",
+    "answers": [
+      "có một người vẫn đợi",
+      "co mot nguoi van doi",
+      "có 1 người vẫn đợi",
+      "co 1 nguoi van doi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Mình Anh Thôi",
+    "answers": [
+      "mình a thôi",
+      "minh a thoi",
+      "mình anh thôi",
+      "minh anh thoi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Lệ Lưu Ly",
+    "answers": [
+      "lệ lưu ly",
+      "le luu ly"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sông Đọa Đày",
+    "answers": [
+      "sông đọa đày",
+      "song doa day"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nâng Chén Tiêu Sầu",
+    "answers": [
+      "nâng chén tiêu sầu",
+      "nang chen tieu sau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ngày Mai Em Đi Mất",
+    "answers": [
+      "ngày mai e đi mất",
+      "ngay mai e di mat",
+      "ngày mai em đi mất",
+      "ngay mai em di mat"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Không Trọn Vẹn Nữa",
+    "answers": [
+      "ko trọn vẹn nữa",
+      "ko tron ven nua",
+      "k trọn vẹn nữa",
+      "k tron ven nua",
+      "không trọn vẹn nữa",
+      "khong tron ven nua"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ngày Em Cưới",
+    "answers": [
+      "ngày e cưới",
+      "ngay e cuoi",
+      "ngày em cưới",
+      "ngay em cuoi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Yên Bình Có Quá Đắt Không",
+    "answers": [
+      "yên bình có quá đắt ko",
+      "yen binh co qua dat ko",
+      "yên bình có quá đắt k",
+      "yen binh co qua dat k",
+      "yên bình có quá đắt không",
+      "yen binh co qua dat khong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Rất Lâu Rồi Mới Khóc",
+    "answers": [
+      "rất lâu rồi mới khóc",
+      "rat lau roi moi khoc"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Rượu Mừng Hóa Người Dưng",
+    "answers": [
+      "rượu mừng hóa người dưng",
+      "ruou mung hoa nguoi dung"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Họ Đâu Thương Em",
+    "answers": [
+      "họ đâu thương e",
+      "ho dau thuong e",
+      "họ đâu thương em",
+      "ho dau thuong em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Sao Phải Khóc",
+    "answers": [
+      "sao phải khóc",
+      "sao phai khoc"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ai Rồi Cũng Thay Đổi",
+    "answers": [
+      "ai rồi cũng thay đổi",
+      "ai roi cung thay doi"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nếu Em Muốn Chia Tay",
+    "answers": [
+      "nếu e muốn chia tay",
+      "neu e muon chia tay",
+      "nếu em muốn chia tay",
+      "neu em muon chia tay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Biết Không",
+    "answers": [
+      "e biết ko",
+      "e biet ko",
+      "e biết k",
+      "e biet k",
+      "e biết không",
+      "e biet khong",
+      "e bt ko",
+      "e bt k",
+      "e bt không",
+      "e bt khong",
+      "em biết ko",
+      "em biet ko",
+      "em biết k",
+      "em biet k",
+      "em biết không",
+      "em biet khong",
+      "em bt ko",
+      "em bt k",
+      "em bt không",
+      "em bt khong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Em Là Con Thuyền Cô Đơn",
+    "answers": [
+      "e là con thuyền cô đơn",
+      "e la con thuyen co don",
+      "em là con thuyền cô đơn",
+      "em la con thuyen co don"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Nặng Tình",
+    "answers": [
+      "nặng tình",
+      "nang tinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Không Phẩy Tám Phần Trăm",
+    "answers": [
+      "ko phẩy tám phần trăm",
+      "ko phay tam phan tram",
+      "ko phẩy 8 phần trăm",
+      "ko phay 8 phan tram",
+      "k phẩy tám phần trăm",
+      "k phay tam phan tram",
+      "k phẩy 8 phần trăm",
+      "k phay 8 phan tram",
+      "không phẩy tám phần trăm",
+      "khong phay tam phan tram",
+      "không phẩy 8 phần trăm",
+      "khong phay 8 phan tram"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "LỐI ĐI CHO NHAU",
+    "answers": [
+      "lối đi cho nhau",
+      "loi di cho nhau"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vì Một Chữ Tình",
+    "answers": [
+      "vì một chữ tình",
+      "vi mot chu tinh",
+      "vì 1 chữ tình",
+      "vi 1 chu tinh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ân Tình Sang Trang",
+    "answers": [
+      "ân tình sang trang",
+      "an tinh sang trang"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Từng Là",
+    "answers": [
+      "từng là",
+      "tung la"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Pháo Hồng",
+    "answers": [
+      "pháo hồng",
+      "phao hong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Có Sao Cũng Đành",
+    "answers": [
+      "có sao cũng đành",
+      "co sao cung danh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Thương Biệt Ly",
+    "answers": [
+      "thương biệt ly",
+      "thuong biet ly"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Ngộ Nhận Mình Mạnh Mẽ",
+    "answers": [
+      "ngộ nhận mình mạnh mẽ",
+      "ngo nhan minh manh me"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Exit Sign",
+    "answers": [
+      "exit sign"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Hóa Ra Lại Hay",
+    "answers": [
+      "hóa ra lại hay",
+      "hoa ra lai hay"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tự Em Thương Mình",
+    "answers": [
+      "tự e thương mình",
+      "tu e thuong minh",
+      "tự em thương mình",
+      "tu em thuong minh"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Trách Duyên Trách Phận",
+    "answers": [
+      "trách duyên trách phận",
+      "trach duyen trach phan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Gió",
+    "answers": [
+      "gió",
+      "gio"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Vì Sao Anh Ghét",
+    "answers": [
+      "vì sao a ghét",
+      "vi sao a ghet",
+      "vì sao anh ghét",
+      "vi sao anh ghet"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Có Ai Đâu Ngờ",
+    "answers": [
+      "có ai đâu ngờ",
+      "co ai dau ngo"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Tình Duyên Đứt Đoạn",
+    "answers": [
+      "tình duyên đứt đoạn",
+      "tinh duyen dut doan"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Xin Lỗi Vì Đã Xuất Hiện",
+    "answers": [
+      "xin lỗi vì đã xuất hiện",
+      "xin loi vi da xuat hien"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Trái Cấm",
+    "answers": [
+      "trái cấm",
+      "trai cam"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Đau Lòng Chữ Tưởng",
+    "answers": [
+      "đau lòng chữ tưởng",
+      "dau long chu tuong"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Qua Cầu Rước Em",
+    "answers": [
+      "qua cầu rước e",
+      "qua cau ruoc e",
+      "qua cầu rước em",
+      "qua cau ruoc em"
+    ],
+    "reward": 100000
+  },
+  {
+    "question": "Bông Hoa Ven Đường",
+    "answers": [
+      "bông hoa ven đường",
+      "bong hoa ven duong"
+    ],
+    "reward": 100000
+  }
+]
